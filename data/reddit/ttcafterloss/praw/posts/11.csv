@@ -1,0 +1,920 @@
+,comment_limit,comment_sort,_reddit,approved_at_utc,subreddit,selftext,author_fullname,saved,mod_reason_title,gilded,clicked,title,link_flair_richtext,subreddit_name_prefixed,hidden,pwls,link_flair_css_class,downs,thumbnail_height,top_awarded_type,hide_score,name,quarantine,link_flair_text_color,upvote_ratio,author_flair_background_color,subreddit_type,ups,total_awards_received,media_embed,thumbnail_width,author_flair_template_id,is_original_content,user_reports,secure_media,is_reddit_media_domain,is_meta,category,secure_media_embed,link_flair_text,can_mod_post,score,approved_by,author_premium,thumbnail,edited,author_flair_css_class,author_flair_richtext,gildings,content_categories,is_self,mod_note,created,link_flair_type,wls,removed_by_category,banned_by,author_flair_type,domain,allow_live_comments,selftext_html,likes,suggested_sort,banned_at_utc,view_count,archived,no_follow,is_crosspostable,pinned,over_18,all_awardings,awarders,media_only,can_gild,spoiler,locked,author_flair_text,treatment_tags,visited,removed_by,num_reports,distinguished,subreddit_id,mod_reason_by,removal_reason,link_flair_background_color,id,is_robot_indexable,report_reasons,author,discussion_type,num_comments,send_replies,whitelist_status,contest_mode,mod_reports,author_patreon_flair,author_flair_text_color,permalink,parent_whitelist_status,stickied,url,subreddit_subscribers,created_utc,num_crossposts,media,is_video,_fetched,_comments_by_id,post_hint,url_overridden_by_dest,preview
+0,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"This thread is for users to announce their results (positive or negative) of TTC this week. This thread will be posted every Monday and remain stickied for the week, so you can post any day of the week. 
+
+ **Please share positive pregnancy tests (BFPs) ONLY in this thread and the daily ""alumni"" thread. Do not make a separate self-post about a BFP/subsequent pregnancy or post about it in the daily TTC thread.** 
+
+ The purpose of this weekly post is so users can easily get an update on others' results without having to wade through the daily threads or sift through multiple posts about subsequent pregnancies in the ""alumni"" thread to find out about users who have gotten positive tests.
+",t2_6l4z3,False,,0,False,"/ttcafterloss Weekly Results Thread - September 07, 2015",[],r/ttcafterloss,False,0,results,0,,,False,t3_3jy36z,False,dark,0.94,,public,13,0,{},,,False,[],,False,False,,{},Results Thread,False,13,,True,self,False,,[],{},,True,,1441638319.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>This thread is for users to announce their results (positive or negative) of TTC this week. This thread will be posted every Monday and remain stickied for the week, so you can post any day of the week. </p>
+
+<p><strong>Please share positive pregnancy tests (BFPs) ONLY in this thread and the daily &quot;alumni&quot; thread. Do not make a separate self-post about a BFP/subsequent pregnancy or post about it in the daily TTC thread.</strong> </p>
+
+<p>The purpose of this weekly post is so users can easily get an update on others&#39; results without having to wade through the daily threads or sift through multiple posts about subsequent pregnancies in the &quot;alumni&quot; thread to find out about users who have gotten positive tests.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jy36z,True,,AutoModerator,,90,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jy36z/ttcafterloss_weekly_results_thread_september_07/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jy36z/ttcafterloss_weekly_results_thread_september_07/,10027,1441609519.0,0,,False,False,{},,,
+1,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 07, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3jy36k,False,dark,0.85,,public,8,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,8,,True,self,False,,[],{},,True,,1441638311.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jy36k,True,,AutoModerator,,96,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jy36k/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jy36k/ttcafterloss_alumni_daily_discussion_thread/,10027,1441609511.0,0,,False,False,{},,,
+2,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 07, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3jy367,False,dark,0.93,,public,11,0,{},,,False,[],,False,False,,{},TTC Thread,False,11,,True,self,False,,[],{},,True,,1441638303.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jy367,True,,AutoModerator,,148,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jy367/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jy367/ttcafterloss_ttc_daily_discussion_thread/,10027,1441609503.0,0,,False,False,{},,,
+3,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 06, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3ju1a1,False,dark,0.81,,public,6,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,6,,True,self,False,,[],{},,True,,1441551839.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ju1a1,True,,AutoModerator,,64,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ju1a1/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ju1a1/ttcafterloss_alumni_daily_discussion_thread/,10027,1441523039.0,0,,False,False,{},,,
+4,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 06, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3ju19t,False,dark,1.0,,public,11,0,{},,,False,[],,False,False,,{},TTC Thread,False,11,,True,self,False,,[],{},,True,,1441551831.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ju19t,True,,AutoModerator,,112,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ju19t/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ju19t/ttcafterloss_ttc_daily_discussion_thread/,10027,1441523031.0,0,,False,False,{},,,
+5,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"So my night was just ruined because apparently apps can now post to your wall without asking you first. I told my parents about my miscarriage tonight and they left an hour ago or so. I was chatting with my sister and I got a notification that a friend commented on my recent post. I was confused, because I hadn't posted on FB in awhile so I looked at the comment. It was in regards to my ""positive pregnancy test."" 
+
+Some **genius** app decided it would be a great time to take an ""online pregnancy test"" for me and tell me and every one of my friends that I'm *pregnant* with triplets. Complete with a beautiful ultrasound of healthy babies.* 
+
+*Three days after my miscarriage.* 
+
+**Without my consent or knowledge.**
+
+What in the actual fuck just happened?
+
+
+So I suggest you all go to your app allowances and revoke these 'cute quiz' apps from being allowed to post. Unfortunately, I acted very quickly in my anger. Not only did I not catch what app posted it but I revoked access from everything so quickly, I can't remember the name of the ONE app that had permission to post on my page. (I sometimes like to see the results of quizzes but don't want them to post to my page so most everything is set to 'only me.')
+
+Hope everyone has a better weekend than I'm having night. Excuse my typos and formatting. I'm practically seeing red right now. ",t2_p9fr4,False,,0,False,Take a moment to change some settings on FB (Cross posted from r/miscarriage),[],r/ttcafterloss,False,0,vent,0,,,False,t3_3jtq8a,False,dark,0.95,,public,16,0,{},,,False,[],,False,False,,{},Vent,False,16,,False,self,1441515072.0,,[],{},,True,,1441543281.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>So my night was just ruined because apparently apps can now post to your wall without asking you first. I told my parents about my miscarriage tonight and they left an hour ago or so. I was chatting with my sister and I got a notification that a friend commented on my recent post. I was confused, because I hadn&#39;t posted on FB in awhile so I looked at the comment. It was in regards to my &quot;positive pregnancy test.&quot; </p>
+
+<p>Some <strong>genius</strong> app decided it would be a great time to take an &quot;online pregnancy test&quot; for me and tell me and every one of my friends that I&#39;m <em>pregnant</em> with triplets. Complete with a beautiful ultrasound of healthy babies.* </p>
+
+<p><em>Three days after my miscarriage.</em> </p>
+
+<p><strong>Without my consent or knowledge.</strong></p>
+
+<p>What in the actual fuck just happened?</p>
+
+<p>So I suggest you all go to your app allowances and revoke these &#39;cute quiz&#39; apps from being allowed to post. Unfortunately, I acted very quickly in my anger. Not only did I not catch what app posted it but I revoked access from everything so quickly, I can&#39;t remember the name of the ONE app that had permission to post on my page. (I sometimes like to see the results of quizzes but don&#39;t want them to post to my page so most everything is set to &#39;only me.&#39;)</p>
+
+<p>Hope everyone has a better weekend than I&#39;m having night. Excuse my typos and formatting. I&#39;m practically seeing red right now. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,MMC@8+5,[],False,,,,t5_34scd,,,,3jtq8a,True,,impregnantnowwhat,,12,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jtq8a/take_a_moment_to_change_some_settings_on_fb_cross/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jtq8a/take_a_moment_to_change_some_settings_on_fb_cross/,10027,1441514481.0,0,,False,False,{},,,
+6,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,[deleted],,False,,0,False,Is it just me or are the daily pages disappearing from the sub?,[],r/ttcafterloss,False,0,question,0,,,False,t3_3jr3c6,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Question,False,8,,,default,1441486835.0,,,{},,True,,1441495586.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>[deleted]</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3jr3c6,False,,,,3,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3jr3c6/is_it_just_me_or_are_the_daily_pages_disappearing/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jr3c6/is_it_just_me_or_are_the_daily_pages_disappearing/,10027,1441466786.0,0,,False,False,{},,,
+7,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Hey guys.  Could use some advice. 
+
+For those who haven't been following my relationship saga, husband and I were trying for a couple of months to conceive (husband reluctantly but agreeable) before MIL came for a visit.  Since then, DH stated that if we continue to try for a child, it will be against his desires, and he will suffer from severe psychological distress if we conceive and have another child.  At the time, I decided we should stop until this is clarified, because it would be better for me to regret not having a child than him to regret *having* a child.
+
+Clearly we are going to go into counseling of some kind.  But my question is this.
+
+Would I be a heartless bitch if I asked him to keep trying for the next month or two because of the timing of what would be a theoretically perfect maternity leave?
+
+I'm 32 (birthday is in April).  It took us 14 months to get pregnant with my first.  (Only once with the second, but that was random methinks.)  A big part of my job is school consultation work.  If I got pregnant this month, assuming the pregnancy went to term, maternity leave would perfectly hit summer vacation.  If I got pregnant the following month, it would hit two months of summer vacation.  If I don't try for at least these two months, I think the regret would be overwhelming.
+
+He has a baseline anxiety disorder, and he is still grieving our losses.  I really understand and appreciate that, and I want to respect it.  And early childhood with our son was really REALLY hard on him, and he is scared of going through that again.  And he needs to process that, and process his fears.  And it would be beneficial for me to process my desire for a larger family and to explore that more thoroughly.  I get that.  
+
+But...that's a long process, and time is against us.  And these two months particularly are the two months I have been foolishly thinking about for over a year.  This was the time I have wanted to try for since before I was even last pregnant.  I'm not sure I can survive the indefinite nature of waiting for something that may never happen, if my husband is not willing to confront his cognitive distortions.  
+
+And it is hard for me to decide what to do because my husband, who I love dearly, has a tendency to flip back and forth between stances.  I can't trust that his position at one moment will be his position in the next moment, though I really do believe he will always be reluctant because he gets overwhelmed by the concept of change and transition, even desired change and transition.  Yet he is truly passionate with a depth of emotion that is truly beautiful, and he is a wonderful and amazing father, even though he thinks it is not his strength.
+
+I'm rambling...guys, any advice or opinions you could provide would be so helpful.  Especially if you also have insight into experience with anxiety.  Thanks so much in advance.",t2_6eq7e,False,,0,False,"Ask to try, or resign to wait?",[],r/ttcafterloss,False,0,question,0,,,False,t3_3jqyzq,False,dark,0.94,,public,12,0,{},,,False,[],,False,False,,{},Question,False,12,,False,self,False,,[],{},,True,,1441493396.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Hey guys.  Could use some advice. </p>
+
+<p>For those who haven&#39;t been following my relationship saga, husband and I were trying for a couple of months to conceive (husband reluctantly but agreeable) before MIL came for a visit.  Since then, DH stated that if we continue to try for a child, it will be against his desires, and he will suffer from severe psychological distress if we conceive and have another child.  At the time, I decided we should stop until this is clarified, because it would be better for me to regret not having a child than him to regret <em>having</em> a child.</p>
+
+<p>Clearly we are going to go into counseling of some kind.  But my question is this.</p>
+
+<p>Would I be a heartless bitch if I asked him to keep trying for the next month or two because of the timing of what would be a theoretically perfect maternity leave?</p>
+
+<p>I&#39;m 32 (birthday is in April).  It took us 14 months to get pregnant with my first.  (Only once with the second, but that was random methinks.)  A big part of my job is school consultation work.  If I got pregnant this month, assuming the pregnancy went to term, maternity leave would perfectly hit summer vacation.  If I got pregnant the following month, it would hit two months of summer vacation.  If I don&#39;t try for at least these two months, I think the regret would be overwhelming.</p>
+
+<p>He has a baseline anxiety disorder, and he is still grieving our losses.  I really understand and appreciate that, and I want to respect it.  And early childhood with our son was really REALLY hard on him, and he is scared of going through that again.  And he needs to process that, and process his fears.  And it would be beneficial for me to process my desire for a larger family and to explore that more thoroughly.  I get that.  </p>
+
+<p>But...that&#39;s a long process, and time is against us.  And these two months particularly are the two months I have been foolishly thinking about for over a year.  This was the time I have wanted to try for since before I was even last pregnant.  I&#39;m not sure I can survive the indefinite nature of waiting for something that may never happen, if my husband is not willing to confront his cognitive distortions.  </p>
+
+<p>And it is hard for me to decide what to do because my husband, who I love dearly, has a tendency to flip back and forth between stances.  I can&#39;t trust that his position at one moment will be his position in the next moment, though I really do believe he will always be reluctant because he gets overwhelmed by the concept of change and transition, even desired change and transition.  Yet he is truly passionate with a depth of emotion that is truly beautiful, and he is a wonderful and amazing father, even though he thinks it is not his strength.</p>
+
+<p>I&#39;m rambling...guys, any advice or opinions you could provide would be so helpful.  Especially if you also have insight into experience with anxiety.  Thanks so much in advance.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"33, mmc 12/26/14, mc of a twin 4/2012, 1 LC",[],False,,,,t5_34scd,,,,3jqyzq,True,,nekomancer_lolz,,16,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jqyzq/ask_to_try_or_resign_to_wait/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jqyzq/ask_to_try_or_resign_to_wait/,10027,1441464596.0,0,,False,False,{},,,
+8,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 05, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3jpvwn,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,8,,True,self,False,,[],{},,True,,1441465432.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jpvwn,True,,AutoModerator,,63,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jpvwn/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jpvwn/ttcafterloss_alumni_daily_discussion_thread/,10027,1441436632.0,0,,False,False,{},,,
+9,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 05, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3jpvwd,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},TTC Thread,False,8,,True,self,False,,[],{},,True,,1441465424.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jpvwd,True,,AutoModerator,,59,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jpvwd/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jpvwd/ttcafterloss_ttc_daily_discussion_thread/,10027,1441436624.0,0,,False,False,{},,,
+10,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Hi All!
+I found out I was pregnant last month and it was terribly exciting. I went a little nuts with buying things; I got gifts for our parents, a little onesie, a bunch of prenatal workout DVDs. I was a little bummed when my first scan was too small to see anything. And the second... and my doctor really wanted to find it to make sure it wasn't ectopic and when we found out it wasn't we couldn't see a heartbeat. I waited two weeks and went back for a follow up (at almost 9 weeks) and there still wasn't a heartbeat and the little nugget hadn't grown past a measured 5 weeks. I was very sad and was given the option to get a D&C that day, let it pass naturally, or take the pill to help it pass. I opted to have the D&C, I couldn't imagine waiting for it when I had the option of having closure that day. 
+
+I put everything I purchased in a little box today including the one photo of the nugget I had. I hope to pull out that box again soon. 
+
+The D&C was pretty painless (Wednesday) but today I'm experiencing heavy cramping so I'm taking it easy. Thought I'd post here now so when I'm safe to try again I won't feel like I'm barreling into a community. 
+
+so hey, hi. Here's to it getting better for all of us. ",t2_p9fr4,False,,0,False,Intro while relaxing in pain.,[],r/ttcafterloss,False,0,intro,0,,,False,t3_3jo6hb,False,dark,0.95,,public,14,0,{},,,False,[],,False,False,,{},Intro,False,14,,False,self,False,,[],{},,True,,1441431397.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Hi All!
+I found out I was pregnant last month and it was terribly exciting. I went a little nuts with buying things; I got gifts for our parents, a little onesie, a bunch of prenatal workout DVDs. I was a little bummed when my first scan was too small to see anything. And the second... and my doctor really wanted to find it to make sure it wasn&#39;t ectopic and when we found out it wasn&#39;t we couldn&#39;t see a heartbeat. I waited two weeks and went back for a follow up (at almost 9 weeks) and there still wasn&#39;t a heartbeat and the little nugget hadn&#39;t grown past a measured 5 weeks. I was very sad and was given the option to get a D&amp;C that day, let it pass naturally, or take the pill to help it pass. I opted to have the D&amp;C, I couldn&#39;t imagine waiting for it when I had the option of having closure that day. </p>
+
+<p>I put everything I purchased in a little box today including the one photo of the nugget I had. I hope to pull out that box again soon. </p>
+
+<p>The D&amp;C was pretty painless (Wednesday) but today I&#39;m experiencing heavy cramping so I&#39;m taking it easy. Thought I&#39;d post here now so when I&#39;m safe to try again I won&#39;t feel like I&#39;m barreling into a community. </p>
+
+<p>so hey, hi. Here&#39;s to it getting better for all of us. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,MMC@8+5,[],False,,,,t5_34scd,,,,3jo6hb,True,,impregnantnowwhat,,6,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jo6hb/intro_while_relaxing_in_pain/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jo6hb/intro_while_relaxing_in_pain/,10027,1441402597.0,0,,False,False,{},,,
+11,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"I posted before on this situation:
+3 MCs between July 2014 and March 2015. 4.5 weeks, 11 weeks, and 6 weeks.
+Faint BFP on CD 30ish, next day brown mucus when I wiped only.
+Doc wouldn't see me unless I had proof of pregnancy.
+POAS line vanished slowly, so couldn't get proof. 
+HCG negative at fertility specialist's ofc. around CD 32ish. Will not be back to fertility specialist b/c of their customer service
+
+Here's an update.
+Currently CD 53.
+Went in to doc two days ago and he told me to pee in a cup, no news yet. I'm assuming negative.
+15 vials of blood taken to test hormone levels.
+Told me to come back in a week for results.
+Losing my mind.
+HALP.",t2_8poge,False,,0,False,Currently CD 53. I'm losing it.,[],r/ttcafterloss,False,0,update,0,,,False,t3_3jmy6t,False,dark,1.0,,public,10,0,{},,,False,[],,False,False,,{},Update,False,10,,False,self,1441385004.0,,[],{},,True,,1441413037.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I posted before on this situation:
+3 MCs between July 2014 and March 2015. 4.5 weeks, 11 weeks, and 6 weeks.
+Faint BFP on CD 30ish, next day brown mucus when I wiped only.
+Doc wouldn&#39;t see me unless I had proof of pregnancy.
+POAS line vanished slowly, so couldn&#39;t get proof. 
+HCG negative at fertility specialist&#39;s ofc. around CD 32ish. Will not be back to fertility specialist b/c of their customer service</p>
+
+<p>Here&#39;s an update.
+Currently CD 53.
+Went in to doc two days ago and he told me to pee in a cup, no news yet. I&#39;m assuming negative.
+15 vials of blood taken to test hormone levels.
+Told me to come back in a week for results.
+Losing my mind.
+HALP.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"38, TTC 15 yrs. Lost 3 since 7/2014",[],False,,,,t5_34scd,,,,3jmy6t,True,,jadedblu,,7,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jmy6t/currently_cd_53_im_losing_it/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jmy6t/currently_cd_53_im_losing_it/,10027,1441384237.0,0,,False,False,{},,,
+12,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"This week 7 years ago I found out I was pregnant. 
+
+I was using the NuvaRing. I took it out for the one week period allowance, had my period the first day it was out, and had sex the evening my period ended. I then realized my prescription was out of refills so made an appointment with a local ob/gyn. 
+
+I went in about 8 days after I'd had sex and had my exam and he gave me a referral to a dermatologist to have a mole removed from very near my crotch. He also wanted to schedule an ultrasound and tests with me to actually confirm a PCOS diagnosis from 5 years prior where the diagnosing doctor did zero tests.
+
+He left the room to schedule the ultrasound and came back in a few minutes later, gently took the referral he'd given me from my hand, and told me I was pregnant. I didn't believe him. I thought he'd accidentally tested the wrong urine. He told me that he'd verified the positive himself and sent me immediately for a blood test and attempted dating scan.
+
+From there on was kind of a blur. I had at least 3 more ultrasounds over the next few weeks, and 3-4 more blood draws, and two more doctor's visits. I'd told the guy, cried on the phone to my mom and dad, told my roommate and my best friend for moral support, and most of my other friends because secrets were hard to keep. My car broke down on the way back from the next ultrasound appointment and I was luckily able to buy the guy's old car off him right away.
+
+I knew emotionally without even thinking about it that I didn't want to end it, though I've always been pro-choice. I still at least tried to think about it logically but ended up deciding I couldn't possibly go through with it. The guy was super supportive, though we weren't technically dating. We started calling it Cricket, between us. Everyone was supportive, though my mom had a very brief freak out and told me that I couldn't have an elective termination and that she'd raise the baby (2000 miles away from me) if I didn't want it.
+
+Then things started looking bad. My levels were not quite doubling like they should. They were over 2000 and the technician expected to be able to see something on the ultrasound, but all they ever found was the corpus luteum cyst.
+
+My incredibly sensitive and kind young doctor called me in on Wednesday, October 1st, after I'd had three weeks to get used to being pregnant and expecting a child, and told me it was ectopic. He didn't know exactly where it was so he'd have to do a laparotomy to find it. I was scheduled for surgery the next morning.
+
+It was gut wrenching. I actually went back to work and worked the rest of the day just to keep my mind off it. I then went home, took a pregnancy test (that stupidly came up negative, making me cry even more) and cried myself to sleep.
+
+I went in the next day and had the operation. That cyst they kept seeing turned out to be hiding the pregnancy. It had started to rupture my tube and they couldn't save it. I never even had any pain and honestly would have only just started to realize my period might be late.
+
+I hated myself afterwards. I had been pregnant, and *I gave permission* to the doctors to remove that pregnancy. I thought the pain killers they gave me as causing me to have suicidal thoughts but it may have been plain old traumatic depression. It took me a really long time to get back to normal. I ended up moving 1000 miles away a year later just to get away from the memories. It did finally help the guy and I end our incredibly toxic pseudo-relationship and move on to actually being just friends.
+
+It took until about this time last year for me to even consider trying to have a child. I've always been way too terrified of going through that again because I know I won't survive it next time. I still am, but the fear is outweighed by the possibility of it not happening.
+
+I actually talked to the guy last night. We both used to play an online game and we both quit years ago. He apparently picked it back up casually a few weeks ago and I randomly decided last night to start playing. The timing of it is all too jarring. I logged off after talking to him to go have sex with my new, amazing SO in an attempt at a new pregnancy. I don't really know how to deal.
+
+I never post here because I don't really feel like I belong. My first pregnancy was unplanned, and unwanted until it actually happened. I feel like that makes my loss less than those of most of you ladies. But there are times like these when I can't really handle it on my own. I need support from those who have been there and who understand. ",t2_4g7oi,False,,0,False,"Anniversaries suck. Trigger, ectopic. Long.",[],r/ttcafterloss,False,0,trigger,0,,,False,t3_3jmkzf,False,dark,0.94,,public,13,0,{},,,False,[],,False,False,,{},Trigger,False,13,,False,self,False,,[],{},,True,,1441408168.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>This week 7 years ago I found out I was pregnant. </p>
+
+<p>I was using the NuvaRing. I took it out for the one week period allowance, had my period the first day it was out, and had sex the evening my period ended. I then realized my prescription was out of refills so made an appointment with a local ob/gyn. </p>
+
+<p>I went in about 8 days after I&#39;d had sex and had my exam and he gave me a referral to a dermatologist to have a mole removed from very near my crotch. He also wanted to schedule an ultrasound and tests with me to actually confirm a PCOS diagnosis from 5 years prior where the diagnosing doctor did zero tests.</p>
+
+<p>He left the room to schedule the ultrasound and came back in a few minutes later, gently took the referral he&#39;d given me from my hand, and told me I was pregnant. I didn&#39;t believe him. I thought he&#39;d accidentally tested the wrong urine. He told me that he&#39;d verified the positive himself and sent me immediately for a blood test and attempted dating scan.</p>
+
+<p>From there on was kind of a blur. I had at least 3 more ultrasounds over the next few weeks, and 3-4 more blood draws, and two more doctor&#39;s visits. I&#39;d told the guy, cried on the phone to my mom and dad, told my roommate and my best friend for moral support, and most of my other friends because secrets were hard to keep. My car broke down on the way back from the next ultrasound appointment and I was luckily able to buy the guy&#39;s old car off him right away.</p>
+
+<p>I knew emotionally without even thinking about it that I didn&#39;t want to end it, though I&#39;ve always been pro-choice. I still at least tried to think about it logically but ended up deciding I couldn&#39;t possibly go through with it. The guy was super supportive, though we weren&#39;t technically dating. We started calling it Cricket, between us. Everyone was supportive, though my mom had a very brief freak out and told me that I couldn&#39;t have an elective termination and that she&#39;d raise the baby (2000 miles away from me) if I didn&#39;t want it.</p>
+
+<p>Then things started looking bad. My levels were not quite doubling like they should. They were over 2000 and the technician expected to be able to see something on the ultrasound, but all they ever found was the corpus luteum cyst.</p>
+
+<p>My incredibly sensitive and kind young doctor called me in on Wednesday, October 1st, after I&#39;d had three weeks to get used to being pregnant and expecting a child, and told me it was ectopic. He didn&#39;t know exactly where it was so he&#39;d have to do a laparotomy to find it. I was scheduled for surgery the next morning.</p>
+
+<p>It was gut wrenching. I actually went back to work and worked the rest of the day just to keep my mind off it. I then went home, took a pregnancy test (that stupidly came up negative, making me cry even more) and cried myself to sleep.</p>
+
+<p>I went in the next day and had the operation. That cyst they kept seeing turned out to be hiding the pregnancy. It had started to rupture my tube and they couldn&#39;t save it. I never even had any pain and honestly would have only just started to realize my period might be late.</p>
+
+<p>I hated myself afterwards. I had been pregnant, and <em>I gave permission</em> to the doctors to remove that pregnancy. I thought the pain killers they gave me as causing me to have suicidal thoughts but it may have been plain old traumatic depression. It took me a really long time to get back to normal. I ended up moving 1000 miles away a year later just to get away from the memories. It did finally help the guy and I end our incredibly toxic pseudo-relationship and move on to actually being just friends.</p>
+
+<p>It took until about this time last year for me to even consider trying to have a child. I&#39;ve always been way too terrified of going through that again because I know I won&#39;t survive it next time. I still am, but the fear is outweighed by the possibility of it not happening.</p>
+
+<p>I actually talked to the guy last night. We both used to play an online game and we both quit years ago. He apparently picked it back up casually a few weeks ago and I randomly decided last night to start playing. The timing of it is all too jarring. I logged off after talking to him to go have sex with my new, amazing SO in an attempt at a new pregnancy. I don&#39;t really know how to deal.</p>
+
+<p>I never post here because I don&#39;t really feel like I belong. My first pregnancy was unplanned, and unwanted until it actually happened. I feel like that makes my loss less than those of most of you ladies. But there are times like these when I can&#39;t really handle it on my own. I need support from those who have been there and who understand. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"35, TTC#1, ectopic 10/08",[],False,,,,t5_34scd,,,,3jmkzf,True,,artipants,,15,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jmkzf/anniversaries_suck_trigger_ectopic_long/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jmkzf/anniversaries_suck_trigger_ectopic_long/,10027,1441379368.0,0,,False,False,{},,,
+13,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 04, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3jl9js,False,dark,1.0,,public,12,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,12,,True,self,False,,[],{},,True,,1441379096.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jl9js,True,,AutoModerator,,97,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jl9js/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jl9js/ttcafterloss_alumni_daily_discussion_thread/,10027,1441350296.0,0,,False,False,{},,,
+14,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 04, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3jl9jf,False,dark,1.0,,public,15,0,{},,,False,[],,False,False,,{},TTC Thread,False,15,,True,self,False,,[],{},,True,,1441379088.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jl9jf,True,,AutoModerator,,172,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jl9jf/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jl9jf/ttcafterloss_ttc_daily_discussion_thread/,10027,1441350288.0,0,,False,False,{},,,
+15,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,So FB memories reminded me one year ago today I had terrible indigestion. It was me falling pregnant. And it's a year later and I've lost two babies and my fiancée. The fiancée might be for the better but I'm so lonely right now. ,t2_ec96k,False,,0,False,One year,[],r/ttcafterloss,False,0,update,0,,,False,t3_3jl3e8,False,dark,0.94,,public,14,0,{},,,False,[],,False,False,,{},Update,False,14,,False,self,False,,[],{},,True,,1441374646.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>So FB memories reminded me one year ago today I had terrible indigestion. It was me falling pregnant. And it&#39;s a year later and I&#39;ve lost two babies and my fiancée. The fiancée might be for the better but I&#39;m so lonely right now. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,Cycle #1 - PCOS ,[],False,,,,t5_34scd,,,,3jl3e8,True,,Lozzif,,6,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jl3e8/one_year/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jl3e8/one_year/,10027,1441345846.0,0,,False,False,{},,,
+16,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,,t2_756uk,False,,0,False,"A friend posted this on her FB page and though it's a tear-jerker, I thought it was a good read when you need to feel some hope. (Potential trigger, mentions pregnancy after loss)",[],r/ttcafterloss,False,0,trigger,0,78.0,,False,t3_3jii38,False,dark,1.0,,public,25,0,{},140.0,,False,[],,False,False,,{},Trigger,False,25,,False,default,False,,[],{},,False,,1441330994.0,text,0,,,text,huffingtonpost.com,False,,,new,,,True,False,False,False,False,[],[],False,False,False,False,"28, #1, 1 MC",[],False,,,,t5_34scd,,,,3jii38,True,,meganlove,,11,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jii38/a_friend_posted_this_on_her_fb_page_and_though/,no_ads,False,http://www.huffingtonpost.com/meredith-hale/to-the-moms-who-helped-me-through-my-miscarriage_b_8074598.html,10027,1441302194.0,0,,False,False,{},link,http://www.huffingtonpost.com/meredith-hale/to-the-moms-who-helped-me-through-my-miscarriage_b_8074598.html,"{'images': [{'source': {'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?auto=webp&s=4c5972e9fad8922077ec38c20ce9d11c7236bbb5', 'width': 1778, 'height': 999}, 'resolutions': [{'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?width=108&crop=smart&auto=webp&s=4204cdfe8a162cb26df86d718304f3ffedf93d72', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?width=216&crop=smart&auto=webp&s=82a91cbc111836ac76f89d7022fb1f093a60f3ac', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?width=320&crop=smart&auto=webp&s=c6b2da9a6155e478935852fe282df3be039f582c', 'width': 320, 'height': 179}, {'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?width=640&crop=smart&auto=webp&s=fb945154671fc7ed18ef39388023ee03deb6c2bb', 'width': 640, 'height': 359}, {'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?width=960&crop=smart&auto=webp&s=ef0c789d49cfa73e7c4ea8a7844e5d312eb8462f', 'width': 960, 'height': 539}, {'url': 'https://external-preview.redd.it/lezawYJ8x4GvQfSsuU6tfRCHWLb9-ZBIIq2k4njKNIA.jpg?width=1080&crop=smart&auto=webp&s=70efe998af7e006764e1005d3061ac17624105d9', 'width': 1080, 'height': 606}], 'variants': {}, 'id': 'RmjSqG1XENTc_CA3i2p2er7f_jS6abgdwlt-oe1WYEI'}], 'enabled': False}"
+17,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Today I got the pathology/genetics results back from my MC. Turns out it was a partial molar with triploidy. Anyone else have experience with this? For a full molar, they recommend waiting 1 year to TTC. For a partial, they have been recommending 6 months of HCG monitoring before TTC. From reading, I guess my risk of having this are higher because of age and previous miscarriages. The curious part of me wonders how many of these go undiagnosed. A lot of people miscarry. Most of them do not have the POCs sent in for pathology - I have only had one of three sent for pathology. They are just told to wait a cycle or two and try again. The cautious side of me is terrified of tempting fate and getting cancer from TTC. My new OB is super smart and forward thinking, she says the new literature for partial molars gauges waiting to TTC based on how quickly your HCG drops. I would love to hear your experiences about TTC after partial molar pregnancies.
+EDIT:  The testing was done by microarray at Progenity. My understanding is that all Partial Molars are Triploidy but not all Triploidy are Partial Molars.  My doc insisted that they are one in the same.  Is there a way to tell them apart? ",t2_pdcdw,False,,0,False,Triploidy and Partial Molar Pregnancy,[],r/ttcafterloss,False,0,question,0,,,False,t3_3jgnts,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Question,False,8,,False,self,False,,[],{},,True,,1441294461.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Today I got the pathology/genetics results back from my MC. Turns out it was a partial molar with triploidy. Anyone else have experience with this? For a full molar, they recommend waiting 1 year to TTC. For a partial, they have been recommending 6 months of HCG monitoring before TTC. From reading, I guess my risk of having this are higher because of age and previous miscarriages. The curious part of me wonders how many of these go undiagnosed. A lot of people miscarry. Most of them do not have the POCs sent in for pathology - I have only had one of three sent for pathology. They are just told to wait a cycle or two and try again. The cautious side of me is terrified of tempting fate and getting cancer from TTC. My new OB is super smart and forward thinking, she says the new literature for partial molars gauges waiting to TTC based on how quickly your HCG drops. I would love to hear your experiences about TTC after partial molar pregnancies.
+EDIT:  The testing was done by microarray at Progenity. My understanding is that all Partial Molars are Triploidy but not all Triploidy are Partial Molars.  My doc insisted that they are one in the same.  Is there a way to tell them apart? </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3jgnts,True,,Drooliusceasar,,7,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3jgnts/triploidy_and_partial_molar_pregnancy/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jgnts/triploidy_and_partial_molar_pregnancy/,10027,1441265661.0,0,,False,False,{},,,
+18,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 03, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3jglbx,False,dark,0.83,,public,7,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,7,,True,self,False,,[],{},,True,,1441292623.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jglbx,True,,AutoModerator,,220,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jglbx/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jglbx/ttcafterloss_alumni_daily_discussion_thread/,10027,1441263823.0,0,,False,False,{},,,
+19,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 03, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3jglbb,False,dark,1.0,,public,12,0,{},,,False,[],,False,False,,{},TTC Thread,False,12,,True,self,False,,[],{},,True,,1441292615.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jglbb,True,,AutoModerator,,122,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jglbb/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jglbb/ttcafterloss_ttc_daily_discussion_thread/,10027,1441263815.0,0,,False,False,{},,,
+20,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"I did it! As the title says, good job body!
+
+Been gone for a while because it just sucked not having a cycle. Went about 8 months without one through a no ovulation limbo. That was a long time. Last cycle I kicked it off with taking a full bc pack and then stopping then two weeks later taking one week of bc and having an early period. seemed to work because I OVed on day 16. This one was longer- day 21, but still OV! Yay! I have a cycle again!
+
+Other changes- wearing a CPap machine now. (its better or just as good as sex as far as how good it makes me feel) Amazing it isn't just sleep. It's anxiety and depression stopping, sadness lifting and happiness making. I'm kind of afraid to get pregnant and never sleep again because of how much that rest means to me. Also yoga 3 times a week and going to the gym... lost 3 lbs. and meditating. But, its probably mostly the sleep.
+
+Anyway ladies, thanks for being there- you're awesome.",t2_79afn,False,,0,False,I did it! High five body!,[],r/ttcafterloss,False,0,update,0,,,False,t3_3jgb8y,False,dark,1.0,,public,11,0,{},,,False,[],,False,False,,{},Update,False,11,,False,self,False,,[],{},,True,,1441284945.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I did it! As the title says, good job body!</p>
+
+<p>Been gone for a while because it just sucked not having a cycle. Went about 8 months without one through a no ovulation limbo. That was a long time. Last cycle I kicked it off with taking a full bc pack and then stopping then two weeks later taking one week of bc and having an early period. seemed to work because I OVed on day 16. This one was longer- day 21, but still OV! Yay! I have a cycle again!</p>
+
+<p>Other changes- wearing a CPap machine now. (its better or just as good as sex as far as how good it makes me feel) Amazing it isn&#39;t just sleep. It&#39;s anxiety and depression stopping, sadness lifting and happiness making. I&#39;m kind of afraid to get pregnant and never sleep again because of how much that rest means to me. Also yoga 3 times a week and going to the gym... lost 3 lbs. and meditating. But, its probably mostly the sleep.</p>
+
+<p>Anyway ladies, thanks for being there- you&#39;re awesome.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"TTC#1, 1mc.",[],False,,,,t5_34scd,,,,3jgb8y,True,,stillragin,,4,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jgb8y/i_did_it_high_five_body/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jgb8y/i_did_it_high_five_body/,10027,1441256145.0,0,,False,False,{},,,
+21,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Oh man, I this is the happiest I've been to see a period. Finally, 5 weeks after I miscarried....I was about 8 weeks when I miscarried on 7/30 ~ 7/31.
+
+The shitty thing about ttc this cycle? I'm at the gate at the airport, on my way to Italy, Paris, and Iceland. We are flying back home on the 15th. Should we try to join the Mile High Club? :-)
+
+I'm hoping to ovulate once we get back, since my cycles range from 29 to about 35 days. I brought some OPKs just in case...but I'm really hoping that I ovulate back at home so we don't need to name our child Claire Bjork or Vincent Bjorn to commemorate the conception!
+
+I have stepped away for a bit from this sub while I've been waiting, but I'm so ready to TTC!!!",t2_iw0iu,False,,0,False,Finally - Cycle Day ONE!!!!!!,[],r/ttcafterloss,False,0,update,0,,,False,t3_3je54n,False,dark,0.93,,public,18,0,{},,,False,[],,False,False,,{},Update,False,18,,False,self,False,,[],{},,True,,1441249041.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Oh man, I this is the happiest I&#39;ve been to see a period. Finally, 5 weeks after I miscarried....I was about 8 weeks when I miscarried on 7/30 ~ 7/31.</p>
+
+<p>The shitty thing about ttc this cycle? I&#39;m at the gate at the airport, on my way to Italy, Paris, and Iceland. We are flying back home on the 15th. Should we try to join the Mile High Club? :-)</p>
+
+<p>I&#39;m hoping to ovulate once we get back, since my cycles range from 29 to about 35 days. I brought some OPKs just in case...but I&#39;m really hoping that I ovulate back at home so we don&#39;t need to name our child Claire Bjork or Vincent Bjorn to commemorate the conception!</p>
+
+<p>I have stepped away for a bit from this sub while I&#39;ve been waiting, but I&#39;m so ready to TTC!!!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"32, MMC 7/15, TTC #1",[],False,,,,t5_34scd,,,,3je54n,True,,ro4135,,8,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3je54n/finally_cycle_day_one/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3je54n/finally_cycle_day_one/,10027,1441220241.0,0,,False,False,{},,,
+22,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,[deleted],,False,,0,False,(26f) early pregnancy loss after paragard removal.,[],r/ttcafterloss,False,0,question,0,,,False,t3_3jdelu,False,dark,0.88,,public,6,0,{},,,False,[],,False,False,,{},Question,False,6,,,default,False,,,{},,True,,1441238571.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>[deleted]</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3jdelu,False,,,,7,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3jdelu/26f_early_pregnancy_loss_after_paragard_removal/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jdelu/26f_early_pregnancy_loss_after_paragard_removal/,10027,1441209771.0,0,,False,False,{},,,
+23,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 02, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3jbs28,False,dark,0.78,,public,7,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,7,,True,self,False,,[],{},,True,,1441206156.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jbs28,True,,AutoModerator,,218,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jbs28/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jbs28/ttcafterloss_alumni_daily_discussion_thread/,10027,1441177356.0,0,,False,False,{},,,
+24,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 02, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3jbs25,False,dark,0.85,,public,9,0,{},,,False,[],,False,False,,{},TTC Thread,False,9,,True,self,False,,[],{},,True,,1441206156.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3jbs25,True,,AutoModerator,,111,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3jbs25/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jbs25/ttcafterloss_ttc_daily_discussion_thread/,10027,1441177356.0,0,,False,False,{},,,
+25,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"The instructions don't say anything about not using first morning urine, but I have heard a lot of anecdotal claims that it skews results. Is this true? What are your experiences? I am caught in OPK crazy-obsession-land (today will be a five stick day) and they are finally starting to get darker. I will not be able to keep from testing first thing in the morning (must pee on the things!!), but should I not trust the result? I'm ready for a real positive, but don't want to second guess too much! I'm temping, too, so hopefully I will be able to confirm. Please let me know if you have opinions on this. Thanks!!",t2_mp6ab,False,,0,False,Is there a consensus about FMU with wondfo OPKs?,[],r/ttcafterloss,False,0,question,0,,,False,t3_3jb19a,False,dark,0.84,,public,4,0,{},,,False,[],,False,False,,{},Question,False,4,,False,self,False,,[],{},,True,,1441191377.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>The instructions don&#39;t say anything about not using first morning urine, but I have heard a lot of anecdotal claims that it skews results. Is this true? What are your experiences? I am caught in OPK crazy-obsession-land (today will be a five stick day) and they are finally starting to get darker. I will not be able to keep from testing first thing in the morning (must pee on the things!!), but should I not trust the result? I&#39;m ready for a real positive, but don&#39;t want to second guess too much! I&#39;m temping, too, so hopefully I will be able to confirm. Please let me know if you have opinions on this. Thanks!!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"36, Henry stillborn at 37 weeks 6/17/15",[],False,,,,t5_34scd,,,,3jb19a,True,,bethechangeyouwish,,16,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3jb19a/is_there_a_consensus_about_fmu_with_wondfo_opks/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3jb19a/is_there_a_consensus_about_fmu_with_wondfo_opks/,10027,1441162577.0,0,,False,False,{},,,
+26,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,My husband and I lost our lo 8 weeks ago and it has been hard. Our first pregnancy unplanned but very wanted when we found out. I am currently on my period and i have been on it 3 weeks. It has never been heavy it has a new meaning to light. Can anyone say if they don't mind how long theirs was so i know when this is almost over. Everytime i see it i just remember how I am not pregnant and i won't be this month either since the bleeding won't stop. Any help is welcome. I don't have an appointment until next Wednesday to see my dr,t2_ov3m7,False,,0,False,Ttc after 1st pregnancy miscarriage,[],r/ttcafterloss,False,0,question,0,,,False,t3_3ja45q,False,dark,1.0,,public,6,0,{},,,False,[],,False,False,,{},Question,False,6,,False,self,False,,[],{},,True,,1441176136.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>My husband and I lost our lo 8 weeks ago and it has been hard. Our first pregnancy unplanned but very wanted when we found out. I am currently on my period and i have been on it 3 weeks. It has never been heavy it has a new meaning to light. Can anyone say if they don&#39;t mind how long theirs was so i know when this is almost over. Everytime i see it i just remember how I am not pregnant and i won&#39;t be this month either since the bleeding won&#39;t stop. Any help is welcome. I don&#39;t have an appointment until next Wednesday to see my dr</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3ja45q,True,,Jayjay1013,,19,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3ja45q/ttc_after_1st_pregnancy_miscarriage/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ja45q/ttc_after_1st_pregnancy_miscarriage/,10027,1441147336.0,0,,False,False,{},,,
+27,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - September 01, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3j6v3i,False,dark,0.91,,public,8,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,8,,True,self,False,,[],{},,True,,1441119759.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3j6v3i,True,,AutoModerator,,215,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3j6v3i/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j6v3i/ttcafterloss_alumni_daily_discussion_thread/,10027,1441090959.0,0,,False,False,{},,,
+28,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - September 01, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3j6v3g,False,dark,0.92,,public,10,0,{},,,False,[],,False,False,,{},TTC Thread,False,10,,True,self,False,,[],{},,True,,1441119758.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3j6v3g,True,,AutoModerator,,184,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3j6v3g/ttcafterloss_ttc_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j6v3g/ttcafterloss_ttc_daily_discussion_thread/,10027,1441090958.0,0,,False,False,{},,,
+29,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,[deleted],,False,,0,False,wondering why I miscarried,[],r/ttcafterloss,False,0,question,0,,,False,t3_3j5dj1,False,dark,1.0,,public,14,0,{},,,False,[],,False,False,,{},Question,False,14,,,default,False,,,{},,True,,1441092444.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>[deleted]</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3j5dj1,False,,,,10,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3j5dj1/wondering_why_i_miscarried/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j5dj1/wondering_why_i_miscarried/,10027,1441063644.0,0,,False,False,{},,,
+30,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Hi all,
+
+I've been lurking here for the past several days, and am impressed by how supportive this community seems to be. 
+
+My husband and I found out a bit over a week ago that we lost our first pregnancy. A week before that we'd had our first ultrasound, and little blip was measuring behind, but within the margin of error (I wasn't 100% sure of O date). A repeat scan the next week showed no fetal growth and no heartbeat, and we were diagnosed with a missed miscarriage. I scheduled a D&C for a week later, hoping my body would take matters into its own hands first. It did not, other than very slowly decreasing hCG numbers, so I had the D&C on Friday. It went as well as these things go and the physical recovery has not been bad.
+
+Anyway. I don't yet know what our future TTC plans will involve. We will wait at least until I've had a period after the D&C to try again, maybe longer. We were lucky to get pregnant quickly the first time, so hopefully that will happen again once we're ready, though I have some concerns about my body's ability to hold on to a pregnancy after this. My doctor said the location of a fibroid (even though it's small) could have led to this miscarriage, because implantation was so close. They didn't seem concerned about it happening again but it still gives me pause...what's to stop the next pregnancy from implanting in the same place? I'm scared that we'll get pregnant quickly again only to go through another MC.
+
+Sorry for the rambling. Basically just wanted to say hi and that I'm thankful to have found what appears to be a very supportive little corner of the internet.
+
+One question --- I know everyone is different, but for those of you who had a D&C (or MVA), how long did it take for your bleeding to taper off? I had minor spotting for the first two days and thought I was off the hook, then on day 3 had a few hours of intense cramping / passing clots  (there's no such thing as TMI here, right?). Since then it's settled to something along the lines of a light or medium period with very light cramping. Can I expect it to continue tapering back down now, do you think? Is it bad that bleeding didn't start until a couple of days after the procedure? I haven't had any signs of infection or bleeding of the amount they said was dangerous, so I'm assuming this is all within the range of normal...
+
+I appreciate any thoughts you're able to offer. 
+",t2_o0u8i,False,,0,False,Intro and D&C question (TW: MC),[],r/ttcafterloss,False,0,intro,0,,,False,t3_3j5456,False,dark,1.0,,public,10,0,{},,,False,[],,False,False,,{},Intro,False,10,,False,self,False,,[],{},,True,,1441088364.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Hi all,</p>
+
+<p>I&#39;ve been lurking here for the past several days, and am impressed by how supportive this community seems to be. </p>
+
+<p>My husband and I found out a bit over a week ago that we lost our first pregnancy. A week before that we&#39;d had our first ultrasound, and little blip was measuring behind, but within the margin of error (I wasn&#39;t 100% sure of O date). A repeat scan the next week showed no fetal growth and no heartbeat, and we were diagnosed with a missed miscarriage. I scheduled a D&amp;C for a week later, hoping my body would take matters into its own hands first. It did not, other than very slowly decreasing hCG numbers, so I had the D&amp;C on Friday. It went as well as these things go and the physical recovery has not been bad.</p>
+
+<p>Anyway. I don&#39;t yet know what our future TTC plans will involve. We will wait at least until I&#39;ve had a period after the D&amp;C to try again, maybe longer. We were lucky to get pregnant quickly the first time, so hopefully that will happen again once we&#39;re ready, though I have some concerns about my body&#39;s ability to hold on to a pregnancy after this. My doctor said the location of a fibroid (even though it&#39;s small) could have led to this miscarriage, because implantation was so close. They didn&#39;t seem concerned about it happening again but it still gives me pause...what&#39;s to stop the next pregnancy from implanting in the same place? I&#39;m scared that we&#39;ll get pregnant quickly again only to go through another MC.</p>
+
+<p>Sorry for the rambling. Basically just wanted to say hi and that I&#39;m thankful to have found what appears to be a very supportive little corner of the internet.</p>
+
+<p>One question --- I know everyone is different, but for those of you who had a D&amp;C (or MVA), how long did it take for your bleeding to taper off? I had minor spotting for the first two days and thought I was off the hook, then on day 3 had a few hours of intense cramping / passing clots  (there&#39;s no such thing as TMI here, right?). Since then it&#39;s settled to something along the lines of a light or medium period with very light cramping. Can I expect it to continue tapering back down now, do you think? Is it bad that bleeding didn&#39;t start until a couple of days after the procedure? I haven&#39;t had any signs of infection or bleeding of the amount they said was dangerous, so I&#39;m assuming this is all within the range of normal...</p>
+
+<p>I appreciate any thoughts you&#39;re able to offer. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"TTC #1, MMC 8/15",[],False,,,,t5_34scd,,,,3j5456,True,,wordjar,,10,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3j5456/intro_and_dc_question_tw_mc/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j5456/intro_and_dc_question_tw_mc/,10027,1441059564.0,0,,False,False,{},,,
+31,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"This thread is for users to announce their results (positive or negative) of TTC this week. This thread will be posted every Monday and remain stickied for the week, so you can post any day of the week. 
+
+ **Please share positive pregnancy tests (BFPs) ONLY in this thread and the daily ""alumni"" thread. Do not make a separate self-post about a BFP/subsequent pregnancy or post about it in the daily TTC thread.** 
+
+ The purpose of this weekly post is so users can easily get an update on others' results without having to wade through the daily threads or sift through multiple posts about subsequent pregnancies in the ""alumni"" thread to find out about users who have gotten positive tests.
+",t2_6l4z3,False,,0,False,"/ttcafterloss Weekly Results Thread - August 31, 2015",[],r/ttcafterloss,False,0,results,0,,,False,t3_3j21rb,False,dark,0.92,,public,10,0,{},,,False,[],,False,False,,{},Results Thread,False,10,,True,self,False,,[],{},,True,,1441033359.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>This thread is for users to announce their results (positive or negative) of TTC this week. This thread will be posted every Monday and remain stickied for the week, so you can post any day of the week. </p>
+
+<p><strong>Please share positive pregnancy tests (BFPs) ONLY in this thread and the daily &quot;alumni&quot; thread. Do not make a separate self-post about a BFP/subsequent pregnancy or post about it in the daily TTC thread.</strong> </p>
+
+<p>The purpose of this weekly post is so users can easily get an update on others&#39; results without having to wade through the daily threads or sift through multiple posts about subsequent pregnancies in the &quot;alumni&quot; thread to find out about users who have gotten positive tests.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3j21rb,True,,AutoModerator,,78,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3j21rb/ttcafterloss_weekly_results_thread_august_31_2015/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j21rb/ttcafterloss_weekly_results_thread_august_31_2015/,10027,1441004559.0,0,,False,False,{},,,
+32,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 31, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3j21r7,False,dark,0.9,,public,7,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,7,,True,self,False,,[],{},,True,,1441033358.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3j21r7,True,,AutoModerator,,202,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3j21r7/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j21r7/ttcafterloss_alumni_daily_discussion_thread/,10027,1441004558.0,0,,False,False,{},,,
+33,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 31, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3j21r5,False,dark,0.86,,public,10,0,{},,,False,[],,False,False,,{},TTC Thread,False,10,,True,self,False,,[],{},,True,,1441033358.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3j21r5,True,,AutoModerator,,163,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3j21r5/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j21r5/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1441004558.0,0,,False,False,{},,,
+34,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"It's been one month today since my little One was born because of Chorio and passed away.  One month my life went from heavenly bliss to hell inn 36 hours... I'm having a sleepless night and i find peace here... Reading everyone else's journey.. From ttc crew to alumnis.. We all have a story and its so nice to know I'm not alone...  
+
+I miss my sweet son.. Like all of you miss your tiny beloveds .. My prayer is that each of us had our heart fufilled and full of joy again one day... That God will answer or prayers for children and fill our lives with the giggles and joy we so desperately deserve.. I pray for all the mommies and daddies here who heart ache... Im grateful for all of the supoort this group has given me... On my worst days you all give me support.. Its not the pat on the back ""Itll be okay"", its the ""hon, ive been there, i know, but we will get through this together..""  and that peace can not be found in any self help book or coffee with a friend... Im very greatful for you all... 
+
+Happy one month birthday Lucas..",t2_drqsn,False,,0,False,One month today... Trigger,[],r/ttcafterloss,False,0,trigger,0,,,False,t3_3j1xcs,False,dark,1.0,,public,18,0,{},,,False,[],,False,False,,{},Trigger,False,18,,False,self,False,,[],{},,True,,1441030663.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>It&#39;s been one month today since my little One was born because of Chorio and passed away.  One month my life went from heavenly bliss to hell inn 36 hours... I&#39;m having a sleepless night and i find peace here... Reading everyone else&#39;s journey.. From ttc crew to alumnis.. We all have a story and its so nice to know I&#39;m not alone...  </p>
+
+<p>I miss my sweet son.. Like all of you miss your tiny beloveds .. My prayer is that each of us had our heart fufilled and full of joy again one day... That God will answer or prayers for children and fill our lives with the giggles and joy we so desperately deserve.. I pray for all the mommies and daddies here who heart ache... Im grateful for all of the supoort this group has given me... On my worst days you all give me support.. Its not the pat on the back &quot;Itll be okay&quot;, its the &quot;hon, ive been there, i know, but we will get through this together..&quot;  and that peace can not be found in any self help book or coffee with a friend... Im very greatful for you all... </p>
+
+<p>Happy one month birthday Lucas..</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,Lucas 23wks 7/15 TTC Earth Baby,[],False,,,,t5_34scd,,,,3j1xcs,True,,jessizu,,11,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3j1xcs/one_month_today_trigger/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j1xcs/one_month_today_trigger/,10027,1441001863.0,0,,False,False,{},,,
+35,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,[deleted],,False,,0,False,Wondering what's going on,[],r/ttcafterloss,False,0,,0,,,False,t3_3j0q37,False,dark,0.0,,public,0,0,{},,,False,[],,False,False,,{},,False,0,,,default,False,,,{},,True,,1441009238.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>[deleted]</p>
+</div><!-- SC_ON -->",,new,,,True,True,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3j0q37,False,,,,2,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3j0q37/wondering_whats_going_on/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j0q37/wondering_whats_going_on/,10027,1440980438.0,0,,False,False,{},,,
+36,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"(1) So, what exactly happens when your HCG zeros out or gets close to zero? Do you ovulate or start your period?  
+In my past experiences, I have gotten my period once my HCG hit zero but some people say that's when you ovulate. 
+(2) After my previous D&C, I spotted for several days before each period.  Do you count spotting or full-on bleeding as CD1? Note: I did not have this happen after my natural miscarriage. ",t2_pdcdw,False,,0,False,Two questions about post miscarriage cycles,[],r/ttcafterloss,False,0,question,0,,,False,t3_3j0a0x,False,dark,1.0,,public,5,0,{},,,False,[],,False,False,,{},Question,False,5,,False,self,False,,[],{},,True,,1441002489.0,text,0,,,text,self.ttcafterloss,True,"<!-- SC_OFF --><div class=""md""><p>(1) So, what exactly happens when your HCG zeros out or gets close to zero? Do you ovulate or start your period?<br/>
+In my past experiences, I have gotten my period once my HCG hit zero but some people say that&#39;s when you ovulate. 
+(2) After my previous D&amp;C, I spotted for several days before each period.  Do you count spotting or full-on bleeding as CD1? Note: I did not have this happen after my natural miscarriage. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3j0a0x,True,,Drooliusceasar,,17,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3j0a0x/two_questions_about_post_miscarriage_cycles/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3j0a0x/two_questions_about_post_miscarriage_cycles/,10027,1440973689.0,0,,False,False,{},,,
+37,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 30, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3ixmgr,False,dark,1.0,,public,7,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,7,,True,self,False,,[],{},,True,,1440946951.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ixmgr,True,,AutoModerator,,35,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ixmgr/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ixmgr/ttcafterloss_alumni_daily_discussion_thread/,10027,1440918151.0,0,,False,False,{},,,
+38,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 30, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3ixmgp,False,dark,0.9,,public,7,0,{},,,False,[],,False,False,,{},TTC Thread,False,7,,True,self,False,,[],{},,True,,1440946950.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ixmgp,True,,AutoModerator,,63,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ixmgp/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ixmgp/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440918150.0,0,,False,False,{},,,
+39,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 29, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3itmkb,False,dark,1.0,,public,10,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,10,,True,self,False,,[],{},,True,,1440860549.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3itmkb,True,,AutoModerator,,122,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3itmkb/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3itmkb/ttcafterloss_alumni_daily_discussion_thread/,10027,1440831749.0,0,,False,False,{},,,
+40,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 29, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3itmk8,False,dark,1.0,,public,11,0,{},,,False,[],,False,False,,{},TTC Thread,False,11,,True,self,False,,[],{},,True,,1440860549.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3itmk8,True,,AutoModerator,,45,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3itmk8/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3itmk8/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440831749.0,0,,False,False,{},,,
+41,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"I lost my baby at 6wks last month. The baby was in the tube and it ruptured on my way to the OR to have baby removed from it. For anyone that has had a tubal pregnancy and had the surgery, how long after did you finally get your period? I have PCOS so I'm already not regular AND I had what seemed like a normal period at the beginning of July (while pregnant). 
+
+My OB didn't order bloodwork to watch HCG levels. He is a doctor that specializes in infertility. I'll be doing bloodwork once I get my period sonwe can get me regular so I know when I ovulate so we can TTC again. IF I managed to concieve this month I'd be a few weeks along. But I've taken 2 tests so far and both have been negative. 
+
+I just wish my body would hurry up and get it's shit together. I can't stop thinking about how I'm supposed to be pregnant right now and I'm not. I ordered ovulation tests strips as well. If anyone has any info or tips on those (best times to test etc) that would be welcome too.",t2_amc84,False,,0,False,Question for anyone who has had a tube removed,[],r/ttcafterloss,False,0,question,0,,,False,t3_3itgcw,False,dark,0.91,,public,8,0,{},,,False,[],,False,False,,{},Question,False,8,,False,self,False,,[],{},,True,,1440855425.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I lost my baby at 6wks last month. The baby was in the tube and it ruptured on my way to the OR to have baby removed from it. For anyone that has had a tubal pregnancy and had the surgery, how long after did you finally get your period? I have PCOS so I&#39;m already not regular AND I had what seemed like a normal period at the beginning of July (while pregnant). </p>
+
+<p>My OB didn&#39;t order bloodwork to watch HCG levels. He is a doctor that specializes in infertility. I&#39;ll be doing bloodwork once I get my period sonwe can get me regular so I know when I ovulate so we can TTC again. IF I managed to concieve this month I&#39;d be a few weeks along. But I&#39;ve taken 2 tests so far and both have been negative. </p>
+
+<p>I just wish my body would hurry up and get it&#39;s shit together. I can&#39;t stop thinking about how I&#39;m supposed to be pregnant right now and I&#39;m not. I ordered ovulation tests strips as well. If anyone has any info or tips on those (best times to test etc) that would be welcome too.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3itgcw,True,,Roserie,,11,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3itgcw/question_for_anyone_who_has_had_a_tube_removed/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3itgcw/question_for_anyone_who_has_had_a_tube_removed/,10027,1440826625.0,0,,False,False,{},,,
+42,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Hopefully this is the right place to ask, I MC'ed about a month ago and was not far along, only maybe 5 weeks. However I bled for about 3 weeks and my OB had me do weekly bloodwork and I FINALLY had my hcg levels back to zero this week. Now I've been spotting for a week straight but not real period. I'm ready to start trying again but also would love to feel like I'm physically back to normal. What we others' experiences like? How long until you had your first real period or normal cycle? I'm so tired of bleeding!",t2_ktfxd,False,,0,False,Post-MC question regarding getting cycles back on track,[],r/ttcafterloss,False,0,question,0,,,False,t3_3isphc,False,dark,1.0,,public,3,0,{},,,False,[],,False,False,,{},Question,False,3,,False,self,False,,[],{},,True,,1440839681.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Hopefully this is the right place to ask, I MC&#39;ed about a month ago and was not far along, only maybe 5 weeks. However I bled for about 3 weeks and my OB had me do weekly bloodwork and I FINALLY had my hcg levels back to zero this week. Now I&#39;ve been spotting for a week straight but not real period. I&#39;m ready to start trying again but also would love to feel like I&#39;m physically back to normal. What we others&#39; experiences like? How long until you had your first real period or normal cycle? I&#39;m so tired of bleeding!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3isphc,True,,raspa46,,7,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3isphc/postmc_question_regarding_getting_cycles_back_on/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3isphc/postmc_question_regarding_getting_cycles_back_on/,10027,1440810881.0,0,,False,False,{},,,
+43,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 28, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3ip6aa,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,8,,True,self,False,,[],{},,True,,1440774159.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ip6aa,True,,AutoModerator,,102,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ip6aa/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ip6aa/ttcafterloss_alumni_daily_discussion_thread/,10027,1440745359.0,0,,False,False,{},,,
+44,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 28, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3ip6a9,False,dark,1.0,,public,13,0,{},,,False,[],,False,False,,{},TTC Thread,False,13,,True,self,False,,[],{},,True,,1440774158.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ip6a9,True,,AutoModerator,,134,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ip6a9/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ip6a9/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440745358.0,0,,False,False,{},,,
+45,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 27, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3ikjfk,False,dark,0.87,,public,10,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,10,,True,self,False,,[],{},,True,,1440687748.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ikjfk,True,,AutoModerator,,152,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ikjfk/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ikjfk/ttcafterloss_alumni_daily_discussion_thread/,10027,1440658948.0,0,,False,False,{},,,
+46,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 27, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3ikjfi,False,dark,0.92,,public,9,0,{},,,False,[],,False,False,,{},TTC Thread,False,9,,True,self,False,,[],{},,True,,1440687747.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ikjfi,True,,AutoModerator,,121,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ikjfi/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ikjfi/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440658947.0,0,,False,False,{},,,
+47,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"As discussed in [this post](https://www.reddit.com/r/ttcafterloss/comments/3i9sl6/remembrance_wall_any_interest/). Here's the link: https://www.reddit.com/r/ttcafterloss/wiki/remembrancewall
+
+I wasn't exactly sure how to format it, but I figured by month is best. If you would like to be added to the wall, you can comment here or send me a PM. 
+
+You don't have to format what you want on the wall a certain way... I know that some people might not have exact dates for their loss, or names, and that's okay. You don't have to include your username, either (just let me know if you want to or not). I was thinking you could include a date (your loss date, or EDD, or something else meaningful to you), name, quote, message to your baby.. whatever you want. Some ideas on how you could format it:
+
+###January
+
+""Babynickname"" - we will miss you 
+
+1st: Babyname (/u/sansascully)
+
+2nd: /u/sansascully
+
+3rd-4th: Babyname
+
+If anyone has any other suggestions or ideas for the wall please let me know.
+
+
+",t2_hk1cj,False,,0,False,I created the Remembrance Wall,[],r/ttcafterloss,False,0,business,0,,,False,t3_3ijylm,False,dark,0.93,,public,11,0,{},,ce4ab51a-711f-11e4-826c-12313d148545,False,[],,False,False,,{},Mod Post,False,11,,False,self,False,,[],{},,True,,1440675178.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>As discussed in <a href=""https://www.reddit.com/r/ttcafterloss/comments/3i9sl6/remembrance_wall_any_interest/"">this post</a>. Here&#39;s the link: <a href=""https://www.reddit.com/r/ttcafterloss/wiki/remembrancewall"">https://www.reddit.com/r/ttcafterloss/wiki/remembrancewall</a></p>
+
+<p>I wasn&#39;t exactly sure how to format it, but I figured by month is best. If you would like to be added to the wall, you can comment here or send me a PM. </p>
+
+<p>You don&#39;t have to format what you want on the wall a certain way... I know that some people might not have exact dates for their loss, or names, and that&#39;s okay. You don&#39;t have to include your username, either (just let me know if you want to or not). I was thinking you could include a date (your loss date, or EDD, or something else meaningful to you), name, quote, message to your baby.. whatever you want. Some ideas on how you could format it:</p>
+
+<h3>January</h3>
+
+<p>&quot;Babynickname&quot; - we will miss you </p>
+
+<p>1st: Babyname (<a href=""/u/sansascully"">/u/sansascully</a>)</p>
+
+<p>2nd: <a href=""/u/sansascully"">/u/sansascully</a></p>
+
+<p>3rd-4th: Babyname</p>
+
+<p>If anyone has any other suggestions or ideas for the wall please let me know.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"Mod - TFMR 2014, LCs 2015 & 2019",[],False,,,moderator,t5_34scd,,,,3ijylm,True,,SansaScully,,28,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3ijylm/i_created_the_remembrance_wall/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ijylm/i_created_the_remembrance_wall/,10027,1440646378.0,0,,False,False,{},,,
+48,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Yesterday we recieved news at our postpartum appointment that we lost our pregnancy at 23 weeks due to chorioamniotisis (sp?).  Apparently its an infection (most of the time e.coli or strep B) of the uterus and placenta, membranes, amniotic fluid, umbilical cord, etc.).  Have you gone on to have healthy uncomplicated pregnancies?  Did you consider low dose of antibiotics to help prevent things?  I read it only happens in 1% of pregnancies... Most of which are at full term (due to the cervix dialating)...  So our case came out to be a fraction of 1% of 100 pregnancies.... That statistic hurts... We were basically very very very unlucky... Im doing all the research I can... Im just wanting to know if mommies went on to have healthy pregnancies... 
+
+Thanks for the community... Ive just been obsessed with researching this...",t2_drqsn,False,,0,False,Any mommies/daddies lose their baby to Chorioamniotisis? (Trigger MC details),[],r/ttcafterloss,False,0,trigger,0,,,False,t3_3ijrwn,False,dark,1.0,,public,17,0,{},,,False,[],,False,False,,{},Trigger,False,17,,False,self,False,,[],{},,True,,1440671862.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Yesterday we recieved news at our postpartum appointment that we lost our pregnancy at 23 weeks due to chorioamniotisis (sp?).  Apparently its an infection (most of the time e.coli or strep B) of the uterus and placenta, membranes, amniotic fluid, umbilical cord, etc.).  Have you gone on to have healthy uncomplicated pregnancies?  Did you consider low dose of antibiotics to help prevent things?  I read it only happens in 1% of pregnancies... Most of which are at full term (due to the cervix dialating)...  So our case came out to be a fraction of 1% of 100 pregnancies.... That statistic hurts... We were basically very very very unlucky... Im doing all the research I can... Im just wanting to know if mommies went on to have healthy pregnancies... </p>
+
+<p>Thanks for the community... Ive just been obsessed with researching this...</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,Lucas 23wks 7/15 TTC Earth Baby,[],False,,,,t5_34scd,,,,3ijrwn,True,,jessizu,,8,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3ijrwn/any_mommiesdaddies_lose_their_baby_to/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ijrwn/any_mommiesdaddies_lose_their_baby_to/,10027,1440643062.0,0,,False,False,{},,,
+49,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 26, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3ifsr5,False,dark,0.92,,public,9,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,9,,True,self,False,,[],{},,True,,1440601355.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ifsr5,True,,AutoModerator,,215,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ifsr5/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ifsr5/ttcafterloss_alumni_daily_discussion_thread/,10027,1440572555.0,0,,False,False,{},,,
+50,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 26, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3ifsr3,False,dark,1.0,,public,12,0,{},,,False,[],,False,False,,{},TTC Thread,False,12,,True,self,False,,[],{},,True,,1440601354.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3ifsr3,True,,AutoModerator,,137,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3ifsr3/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3ifsr3/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440572554.0,0,,False,False,{},,,
+51,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Sorry if the tittle is offensive, I couldn't come up with any better. So what I want to talk about is having living child and losses after and/or before that child. Counting of course those who have more than one living kid.
+
+Today it hit me hard again that our age gap is going to be atleast almost double than what I hoped for. My kid is almost out of diapers, sleeps nights through and loves babies. She playes with her baby dolls, talks about her baby cousin and asks me if there is baby in my tummy. Nope, not anymore. Same time I'm kinda happy that now I won't have two in diapers but still, that's what I actually wanted. Also since second one takes longer than planned, it has put our life in limbo. We are going to move next summer and I was supposed to be at maternity leave/parental leave until our new address is clear, but now I need to find job I guess.
+
+I'm just hoping that she forgets those few mentions of me being pregnant and she becoming big sister. While those questions are coming rarer, I'm still in tears everytime she talks about it.
+
+So what are your cons and pros if there are any? How do you feel about your situation and answer to questions of when you kid is going to be big sister/brother, both from themselves and other people? If you told them already about pregnancy, how did you handle loss with them? Insert another discussion starting question.",t2_bktcf,False,,0,False,"Secondary losers, how do you feel about everything around this? (trigger warning, living children)",[],r/ttcafterloss,False,0,trigger,0,,,False,t3_3id3ft,False,dark,1.0,,public,15,0,{},,,False,[],,False,False,,{},Trigger,False,15,,False,self,False,,[],{},,True,,1440555597.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Sorry if the tittle is offensive, I couldn&#39;t come up with any better. So what I want to talk about is having living child and losses after and/or before that child. Counting of course those who have more than one living kid.</p>
+
+<p>Today it hit me hard again that our age gap is going to be atleast almost double than what I hoped for. My kid is almost out of diapers, sleeps nights through and loves babies. She playes with her baby dolls, talks about her baby cousin and asks me if there is baby in my tummy. Nope, not anymore. Same time I&#39;m kinda happy that now I won&#39;t have two in diapers but still, that&#39;s what I actually wanted. Also since second one takes longer than planned, it has put our life in limbo. We are going to move next summer and I was supposed to be at maternity leave/parental leave until our new address is clear, but now I need to find job I guess.</p>
+
+<p>I&#39;m just hoping that she forgets those few mentions of me being pregnant and she becoming big sister. While those questions are coming rarer, I&#39;m still in tears everytime she talks about it.</p>
+
+<p>So what are your cons and pros if there are any? How do you feel about your situation and answer to questions of when you kid is going to be big sister/brother, both from themselves and other people? If you told them already about pregnancy, how did you handle loss with them? Insert another discussion starting question.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"TTC#2, MC 10/14. Uljas 19w - 6/15",[],False,,,,t5_34scd,,,,3id3ft,True,,Ikuisuus,,20,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3id3ft/secondary_losers_how_do_you_feel_about_everything/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3id3ft/secondary_losers_how_do_you_feel_about_everything/,10027,1440526797.0,0,,False,False,{},,,
+52,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 25, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3iaztb,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,8,,True,self,False,,[],{},,True,,1440514954.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3iaztb,True,,AutoModerator,,171,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3iaztb/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3iaztb/ttcafterloss_alumni_daily_discussion_thread/,10027,1440486154.0,0,,False,False,{},,,
+53,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 25, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3iazt9,False,dark,1.0,,public,10,0,{},,,False,[],,False,False,,{},TTC Thread,False,10,,True,self,False,,[],{},,True,,1440514954.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3iazt9,True,,AutoModerator,,164,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3iazt9/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3iazt9/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440486154.0,0,,False,False,{},,,
+54,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Hi all, /u/jessizu sent me a message and suggested we have a sort of ""remembrance wall"" in the Wiki where we can have our lost babies' names (or nicknames, or just your username) and their birth/loss dates/EDDs (whichever you prefer for your loss). I know that some members like to light candles or say prayers for the babies we've lost so having their names here might be helpful. Let me know if you guys are interested in something like this. It would be totally optional and I'd only add names/dates if you request it.",t2_hk1cj,False,,0,False,Remembrance Wall - any interest?,[],r/ttcafterloss,False,0,business,0,,,False,t3_3i9sl6,False,dark,1.0,,public,17,0,{},,ce4ab51a-711f-11e4-826c-12313d148545,False,[],,False,False,,{},Mod Post,False,17,,False,self,False,,[],{},,True,,1440491661.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Hi all, <a href=""/u/jessizu"">/u/jessizu</a> sent me a message and suggested we have a sort of &quot;remembrance wall&quot; in the Wiki where we can have our lost babies&#39; names (or nicknames, or just your username) and their birth/loss dates/EDDs (whichever you prefer for your loss). I know that some members like to light candles or say prayers for the babies we&#39;ve lost so having their names here might be helpful. Let me know if you guys are interested in something like this. It would be totally optional and I&#39;d only add names/dates if you request it.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"Mod - TFMR 2014, LCs 2015 & 2019",[],False,,,,t5_34scd,,,,3i9sl6,True,,SansaScully,,17,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3i9sl6/remembrance_wall_any_interest/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i9sl6/remembrance_wall_any_interest/,10027,1440462861.0,0,,False,False,{},,,
+55,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,,t2_7q77e,False,,0,False,"NILMDTS Remembrance Walk - The actual event and walk is in Littleton, CO but they also have a virtual walk. You can register and have your child's name read and a balloon released.",[],r/ttcafterloss,False,0,support,0,41.0,,False,t3_3i8yg8,False,dark,1.0,,public,8,0,{},140.0,,False,[],,False,False,,{},Support,False,8,,False,default,False,,[],{},,False,,1440478458.0,text,0,,,text,nowilaymedowntosleep.org,False,,,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3i8yg8,True,,odwalla1,,5,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3i8yg8/nilmdts_remembrance_walk_the_actual_event_and/,no_ads,False,https://www.nowilaymedowntosleep.org/remembrancewalk/,10027,1440449658.0,0,,False,False,{},link,https://www.nowilaymedowntosleep.org/remembrancewalk/,"{'images': [{'source': {'url': 'https://external-preview.redd.it/WcTu6Gl7u7YTi-yaxXovT1nfbeItf_SMqvei59Jg0rs.jpg?auto=webp&s=486a8c42dd7c55ff3b7ae30a1fe2e3f15aa85ebe', 'width': 170, 'height': 50}, 'resolutions': [{'url': 'https://external-preview.redd.it/WcTu6Gl7u7YTi-yaxXovT1nfbeItf_SMqvei59Jg0rs.jpg?width=108&crop=smart&auto=webp&s=ea59afa8913435df6fd9f894d748088ce5cc339d', 'width': 108, 'height': 31}], 'variants': {}, 'id': 'XfkjNiZhRXFY3FGAxOFuAVfFtUwluH7k7DmIcnByJMg'}], 'enabled': False}"
+56,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"This thread is for users to announce their results (positive or negative) of TTC this week. This thread will be posted every Monday and remain stickied for the week, so you can post any day of the week. 
+
+ **Please share positive pregnancy tests (BFPs) ONLY in this thread and the daily ""alumni"" thread. Do not make a separate self-post about a BFP/subsequent pregnancy or post about it in the daily TTC thread.** 
+
+ The purpose of this weekly post is so users can easily get an update on others' results without having to wade through the daily threads or sift through multiple posts about subsequent pregnancies in the ""alumni"" thread to find out about users who have gotten positive tests.
+",t2_6l4z3,False,,0,False,"/ttcafterloss Weekly Results Thread - August 24, 2015",[],r/ttcafterloss,False,0,results,0,,,False,t3_3i6a8w,False,dark,1.0,,public,9,0,{},,,False,[],,False,False,,{},Results Thread,False,9,,True,self,False,,[],{},,True,,1440428562.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>This thread is for users to announce their results (positive or negative) of TTC this week. This thread will be posted every Monday and remain stickied for the week, so you can post any day of the week. </p>
+
+<p><strong>Please share positive pregnancy tests (BFPs) ONLY in this thread and the daily &quot;alumni&quot; thread. Do not make a separate self-post about a BFP/subsequent pregnancy or post about it in the daily TTC thread.</strong> </p>
+
+<p>The purpose of this weekly post is so users can easily get an update on others&#39; results without having to wade through the daily threads or sift through multiple posts about subsequent pregnancies in the &quot;alumni&quot; thread to find out about users who have gotten positive tests.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3i6a8w,True,,AutoModerator,,17,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3i6a8w/ttcafterloss_weekly_results_thread_august_24_2015/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i6a8w/ttcafterloss_weekly_results_thread_august_24_2015/,10027,1440399762.0,0,,False,False,{},,,
+57,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 24, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3i6a8u,False,dark,0.9,,public,7,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,7,,True,self,False,,[],{},,True,,1440428561.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3i6a8u,True,,AutoModerator,,174,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3i6a8u/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i6a8u/ttcafterloss_alumni_daily_discussion_thread/,10027,1440399761.0,0,,False,False,{},,,
+58,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 24, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3i6a8t,False,dark,1.0,,public,9,0,{},,,False,[],,False,False,,{},TTC Thread,False,9,,True,self,False,,[],{},,True,,1440428561.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3i6a8t,True,,AutoModerator,,174,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3i6a8t/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i6a8t/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440399761.0,0,,False,False,{},,,
+59,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Here are the results for the poll I posted last week about the use of subsequent pregnancy info in user flair ([here is the post if you didn't see it](https://www.reddit.com/r/ttcafterloss/comments/3hd7yi/poll_on_ttcafterloss_user_flair/).)
+
+Neither (allow any flair) - 63%
+
+Discouraged (with note in sidebar) - 29%
+
+Banned - 9%
+
+Since the majority of people didn't want to change anything, I won't be instituting a rule about flair at this time. Like I said in the previous post - I don't want to create too many rules for this sub, because I feel like that can be overwhelming and discouraging for newbies, and I want this sub to be as welcoming to them as possible. I also checked out the user flair page and it seems like the vast majority of ""alumni"" have not mentioned anything about their subsequent pregnancies in their flair. I know that many of us have different words/phrases/etc. that can be triggers.. but since we're all different, it's honestly impossible to make this place 100% free of them. If something comes up in the future that bothers a lot of users, we can definitely do another poll to decide if it should be discouraged or banned.
+
+I'd also like to remind everyone that you can use [Reddit Enhancement Suite](http://redditenhancementsuite.com/) to automatically hide posts with certain keywords (for instance, you could set it to hide the daily ""alumni"" thread by using the keyword ""alumni""). Go to your RES settings console (the little cog by the logout button in the upper-right hand corner of your screen), click ""Filters"", and under ""keywords"" click ""+filter"", add the keyword ""alumni"" and have it apply only on this sub (ttcafterloss). There are also filter options in some phone apps like Baconreader, although in that app specifically I don't think you can set it to a specific sub, so it might block any post that has the word ""alumni"" in it.
+
+Thanks everyone. As always, if you ever have a concern, question, or idea for the sub, please send me a PM!
+",t2_hk1cj,False,,0,False,User Flair - Poll Results,[],r/ttcafterloss,False,0,business,0,,,False,t3_3i671m,False,dark,0.81,,public,17,0,{},,ce4ab51a-711f-11e4-826c-12313d148545,False,[],,False,False,,{},Mod Post,False,17,,False,self,False,,[],{},,True,,1440426178.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Here are the results for the poll I posted last week about the use of subsequent pregnancy info in user flair (<a href=""https://www.reddit.com/r/ttcafterloss/comments/3hd7yi/poll_on_ttcafterloss_user_flair/"">here is the post if you didn&#39;t see it</a>.)</p>
+
+<p>Neither (allow any flair) - 63%</p>
+
+<p>Discouraged (with note in sidebar) - 29%</p>
+
+<p>Banned - 9%</p>
+
+<p>Since the majority of people didn&#39;t want to change anything, I won&#39;t be instituting a rule about flair at this time. Like I said in the previous post - I don&#39;t want to create too many rules for this sub, because I feel like that can be overwhelming and discouraging for newbies, and I want this sub to be as welcoming to them as possible. I also checked out the user flair page and it seems like the vast majority of &quot;alumni&quot; have not mentioned anything about their subsequent pregnancies in their flair. I know that many of us have different words/phrases/etc. that can be triggers.. but since we&#39;re all different, it&#39;s honestly impossible to make this place 100% free of them. If something comes up in the future that bothers a lot of users, we can definitely do another poll to decide if it should be discouraged or banned.</p>
+
+<p>I&#39;d also like to remind everyone that you can use <a href=""http://redditenhancementsuite.com/"">Reddit Enhancement Suite</a> to automatically hide posts with certain keywords (for instance, you could set it to hide the daily &quot;alumni&quot; thread by using the keyword &quot;alumni&quot;). Go to your RES settings console (the little cog by the logout button in the upper-right hand corner of your screen), click &quot;Filters&quot;, and under &quot;keywords&quot; click &quot;+filter&quot;, add the keyword &quot;alumni&quot; and have it apply only on this sub (ttcafterloss). There are also filter options in some phone apps like Baconreader, although in that app specifically I don&#39;t think you can set it to a specific sub, so it might block any post that has the word &quot;alumni&quot; in it.</p>
+
+<p>Thanks everyone. As always, if you ever have a concern, question, or idea for the sub, please send me a PM!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"Mod - TFMR 2014, LCs 2015 & 2019",[],False,,,moderator,t5_34scd,,,,3i671m,True,,SansaScully,,5,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3i671m/user_flair_poll_results/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i671m/user_flair_poll_results/,10027,1440397378.0,0,,False,False,{},self,,"{'images': [{'source': {'url': 'https://external-preview.redd.it/G185JGPx-8ZVyBjHTU916QM74ST-6RvCduJfaTBp1ko.jpg?auto=webp&s=8b189e6d789ff06614fe3630f7f740e2a71380f5', 'width': 150, 'height': 206}, 'resolutions': [{'url': 'https://external-preview.redd.it/G185JGPx-8ZVyBjHTU916QM74ST-6RvCduJfaTBp1ko.jpg?width=108&crop=smart&auto=webp&s=688ff26bbd548dff4afa3fd1130923a533ed1e60', 'width': 108, 'height': 148}], 'variants': {}, 'id': 'oqbJutuS6x7dHA0IT5bTgPQ-g1NCRq0D0q2PSxEngVA'}], 'enabled': False}"
+60,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Bkg:  I've lost three since July 2014. I have hypothyroidism, and according to screenings this past month (well, July), my hormones are okay. 
+
+I got a faint BFP on CD 30. There were symptoms like weird dreams about rainbow marshmallows, freq urination, sleepiness. Then, nothing the next day. I began to spot. Not spotting to where my underwear had anything in them, but brown when I wipe only. No cramping or tissue. I didn't even stain my pantyliner. My doc said it could have been implantation bleeding, but it was AFTER my cycle was due. 
+
+My test was nothing --dollar store cheapie.
+
+Then a brighter BFP line on CD 32. I went to the doc for an HCG and it was <2, meaning not pregnant. Now, I am on CD 40. I don't have any symptoms minus bloating and today nausea. I don't know what to do. 
+
+My GP's office said in order to see me for that issue, I need proof of pregnancy. Urgent care would not see me. I took the HCG at a fertility specialist's office, but talking to them is like pulling teeth. 
+
+Please give some level-headed advice.",t2_8poge,False,,0,False,CD40 and normal cycles are 23-25,[],r/ttcafterloss,False,0,question,0,,,False,t3_3i4si5,False,dark,0.82,,public,7,0,{},,,False,[],,False,False,,{},Question,False,7,,False,self,1440371198.0,,[],{},,True,,1440399673.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Bkg:  I&#39;ve lost three since July 2014. I have hypothyroidism, and according to screenings this past month (well, July), my hormones are okay. </p>
+
+<p>I got a faint BFP on CD 30. There were symptoms like weird dreams about rainbow marshmallows, freq urination, sleepiness. Then, nothing the next day. I began to spot. Not spotting to where my underwear had anything in them, but brown when I wipe only. No cramping or tissue. I didn&#39;t even stain my pantyliner. My doc said it could have been implantation bleeding, but it was AFTER my cycle was due. </p>
+
+<p>My test was nothing --dollar store cheapie.</p>
+
+<p>Then a brighter BFP line on CD 32. I went to the doc for an HCG and it was &lt;2, meaning not pregnant. Now, I am on CD 40. I don&#39;t have any symptoms minus bloating and today nausea. I don&#39;t know what to do. </p>
+
+<p>My GP&#39;s office said in order to see me for that issue, I need proof of pregnancy. Urgent care would not see me. I took the HCG at a fertility specialist&#39;s office, but talking to them is like pulling teeth. </p>
+
+<p>Please give some level-headed advice.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"38, TTC 15 yrs. Lost 3 since 7/2014",[],False,,,,t5_34scd,,,,3i4si5,True,,jadedblu,,7,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3i4si5/cd40_and_normal_cycles_are_2325/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i4si5/cd40_and_normal_cycles_are_2325/,10027,1440370873.0,0,,False,False,{},,,
+61,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 23, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3i227o,False,dark,0.86,,public,9,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,9,,True,self,False,,[],{},,True,,1440342031.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3i227o,True,,AutoModerator,,181,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3i227o/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i227o/ttcafterloss_alumni_daily_discussion_thread/,10027,1440313231.0,0,,False,False,{},,,
+62,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 23, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3i227m,False,dark,1.0,,public,12,0,{},,,False,[],,False,False,,{},TTC Thread,False,12,,True,self,False,,[],{},,True,,1440342031.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3i227m,True,,AutoModerator,,41,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3i227m/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i227m/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440313231.0,0,,False,False,{},,,
+63,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,Any mommies of a mc or sb start lactating?  I thought this nightmare was over... TMI: My chesticles started aching and i went to the bathroom and my bra was somewhat damp.. Gave the ole utters a squeeze and i start lactating a lot... I gave birth three weeks ago... Why is this happening?  Does it last long?  Does it delay your cycle?  Im having a rough time here.. I just want a break... The loss and heartache is just getting worse...  Does it get worse for others?  Still looking for the morning and night where i dont cry when i get up.or when i go to bed...,t2_drqsn,False,,0,False,Lactating?,[],r/ttcafterloss,False,0,question,0,,,False,t3_3i1tum,False,dark,1.0,,public,11,0,{},,,False,[],,False,False,,{},Question,False,11,,False,self,False,,[],{},,True,,1440335755.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Any mommies of a mc or sb start lactating?  I thought this nightmare was over... TMI: My chesticles started aching and i went to the bathroom and my bra was somewhat damp.. Gave the ole utters a squeeze and i start lactating a lot... I gave birth three weeks ago... Why is this happening?  Does it last long?  Does it delay your cycle?  Im having a rough time here.. I just want a break... The loss and heartache is just getting worse...  Does it get worse for others?  Still looking for the morning and night where i dont cry when i get up.or when i go to bed...</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,Lucas 23wks 7/15 TTC Earth Baby,[],False,,,,t5_34scd,,,,3i1tum,True,,jessizu,,22,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3i1tum/lactating/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3i1tum/lactating/,10027,1440306955.0,0,,False,False,{},,,
+64,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"I'm curious to know what every ones cycle lengths are? Not the ones after a miscarriage but your ""regular"" cycles. I ask because mine are 40 days I recently discussed this with a nurse at my fertility clinic and she said my cycles will get back to normal soon (I had my most recent miscarriage in march) I explained that since starting metformin which has been 2+ yrs my cycles went from 50-60 days to 40. She said to give it a few more months before we investigate further. I do have pcos so I know my cycles are wonky anyway. So if this isn't to confusing please share your cycle lengths!
+
+
+Edit-  (It's just so frustrating that my tww is actually a three weeks wait.) Thanks to a couple of people in here I've went back and looked and it looks like my tww is actually just that! ",t2_4chtg,False,,0,False,Cycle lengths,[],r/ttcafterloss,False,0,discussion,0,,,False,t3_3hz7oe,False,dark,1.0,,public,5,0,{},,,False,[],,False,False,,{},Discussion,False,5,,False,self,1440332494.0,,[],{},,True,,1440286953.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m curious to know what every ones cycle lengths are? Not the ones after a miscarriage but your &quot;regular&quot; cycles. I ask because mine are 40 days I recently discussed this with a nurse at my fertility clinic and she said my cycles will get back to normal soon (I had my most recent miscarriage in march) I explained that since starting metformin which has been 2+ yrs my cycles went from 50-60 days to 40. She said to give it a few more months before we investigate further. I do have pcos so I know my cycles are wonky anyway. So if this isn&#39;t to confusing please share your cycle lengths!</p>
+
+<p>Edit-  (It&#39;s just so frustrating that my tww is actually a three weeks wait.) Thanks to a couple of people in here I&#39;ve went back and looked and it looks like my tww is actually just that! </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3hz7oe,True,,arol_1021,,23,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3hz7oe/cycle_lengths/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hz7oe/cycle_lengths/,10027,1440258153.0,0,,False,False,{},,,
+65,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,My company is having its annual open enrollment for health insurance and I'm debating on whether or not I should pick up double coverage for potential IVF purposes. Anyone have experience with this? Would it help with costs if I'm covered by both mine and my husband's insurance plans? Just figured I'd throw the question out there for you guys; im trying to do research but it's not easy to understand. ,t2_gb0fj,False,,0,False,Question about insurance,[],r/ttcafterloss,False,0,question,0,,,False,t3_3hyop2,False,dark,0.81,,public,3,0,{},,,False,[],,False,False,,{},Question,False,3,,False,self,False,,[],{},,True,,1440275795.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>My company is having its annual open enrollment for health insurance and I&#39;m debating on whether or not I should pick up double coverage for potential IVF purposes. Anyone have experience with this? Would it help with costs if I&#39;m covered by both mine and my husband&#39;s insurance plans? Just figured I&#39;d throw the question out there for you guys; im trying to do research but it&#39;s not easy to understand. </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"26, MMC 11/14, Ectopic 3/15",[],False,,,,t5_34scd,,,,3hyop2,True,,biscotti_monster,,7,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hyop2/question_about_insurance/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hyop2/question_about_insurance/,10027,1440246995.0,0,,False,False,{},,,
+66,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 22, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3hy1kl,False,dark,0.88,,public,6,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,6,,True,self,False,,[],{},,True,,1440255629.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hy1kl,True,,AutoModerator,,103,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hy1kl/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hy1kl/ttcafterloss_alumni_daily_discussion_thread/,10027,1440226829.0,0,,False,False,{},,,
+67,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 22, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3hy1ki,False,dark,1.0,,public,9,0,{},,,False,[],,False,False,,{},TTC Thread,False,9,,True,self,False,,[],{},,True,,1440255629.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hy1ki,True,,AutoModerator,,123,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hy1ki/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hy1ki/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440226829.0,0,,False,False,{},,,
+68,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,I think of this quote every single day. I hope some of you also find it healing. (reposted because it makes more sense with the quote in the title),t2_mp6ab,False,,0,False,"""Listen to me, your body is not a temple. Temples can be destroyed and desecrated. Your body is a forest—thick canopies of maple trees and sweet scented wildflowers sprouting in the underwood. You will grow back, over and over, no matter how badly you are devastated."" -- Beau Taplin",[],r/ttcafterloss,False,0,support,0,,,False,t3_3hwwp1,False,dark,1.0,,public,29,0,{},,,False,[],,False,False,,{},Support,False,29,,False,self,False,,[],{},,True,,1440230829.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I think of this quote every single day. I hope some of you also find it healing. (reposted because it makes more sense with the quote in the title)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"36, Henry stillborn at 37 weeks 6/17/15",[],False,,,,t5_34scd,,,,3hwwp1,True,,bethechangeyouwish,,10,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hwwp1/listen_to_me_your_body_is_not_a_temple_temples/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hwwp1/listen_to_me_your_body_is_not_a_temple_temples/,10027,1440202029.0,0,,False,False,{},,,
+69,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,[deleted],,False,,0,False,This quote is on my mind every single day.,[],r/ttcafterloss,False,0,,0,,,False,t3_3hwtvc,False,dark,1.0,,public,1,0,{},,,False,[],,False,False,,{},,False,1,,,default,False,,,{},,True,,1440229392.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>[deleted]</p>
+</div><!-- SC_ON -->",,new,,,True,True,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3hwtvc,False,,,,0,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3hwtvc/this_quote_is_on_my_mind_every_single_day/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hwtvc/this_quote_is_on_my_mind_every_single_day/,10027,1440200592.0,0,,False,False,{},,,
+70,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"I'm new at this and would love some help. I just started temping 3 days ago. The first day was 96.41 at 4:45 am. The second day was 96.46 at 5:15 am. This morning was a little weird, because I had to get up to pee and couldn't get back to sleep for a while. So when I first took my temp, it was 97.41. After I laid in bed for a while longer, I took it again and it was 96.52 at 8:00 am. I entered the original temp and then deleted and put the newer (more realistic) temp in for today, CD8. But both yesterday's and today's dots are open circles, indicating something may be inaccurate. I understand today may be a little off on timing, but what about yesterday? Why is that an open circle? This is my first cycle doing tracking of any sort, so I want to do things right! Also, that thermometer is so sensitive and I don't know how much I trust it. Do you guys ever take three temps in a row and average them out? Just curious... For added reference, I have been doing OPKs and they are all negative. No CM.",t2_mp6ab,False,,0,False,Question about Fertility Friend app and temping,[],r/ttcafterloss,False,0,question,0,,,False,t3_3hvo20,False,dark,1.0,,public,5,0,{},,,False,[],,False,False,,{},Question,False,5,,False,self,False,,[],{},,True,,1440210744.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m new at this and would love some help. I just started temping 3 days ago. The first day was 96.41 at 4:45 am. The second day was 96.46 at 5:15 am. This morning was a little weird, because I had to get up to pee and couldn&#39;t get back to sleep for a while. So when I first took my temp, it was 97.41. After I laid in bed for a while longer, I took it again and it was 96.52 at 8:00 am. I entered the original temp and then deleted and put the newer (more realistic) temp in for today, CD8. But both yesterday&#39;s and today&#39;s dots are open circles, indicating something may be inaccurate. I understand today may be a little off on timing, but what about yesterday? Why is that an open circle? This is my first cycle doing tracking of any sort, so I want to do things right! Also, that thermometer is so sensitive and I don&#39;t know how much I trust it. Do you guys ever take three temps in a row and average them out? Just curious... For added reference, I have been doing OPKs and they are all negative. No CM.</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"36, Henry stillborn at 37 weeks 6/17/15",[],False,,,,t5_34scd,,,,3hvo20,True,,bethechangeyouwish,,15,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hvo20/question_about_fertility_friend_app_and_temping/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hvo20/question_about_fertility_friend_app_and_temping/,10027,1440181944.0,0,,False,False,{},,,
+71,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"How do you deal with them gracefully?
+
+Is it enough to say ""congratulations"" and change the subject?",,False,,0,False,Other people's pregnancies,[],r/ttcafterloss,False,0,discussion,0,,,False,t3_3hv8ff,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Discussion,False,8,,,self,False,,,{},,True,,1440204319.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>How do you deal with them gracefully?</p>
+
+<p>Is it enough to say &quot;congratulations&quot; and change the subject?</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3hv8ff,True,,,,16,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3hv8ff/other_peoples_pregnancies/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hv8ff/other_peoples_pregnancies/,10027,1440175519.0,0,,False,False,{},,,
+72,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Paying it forward because months back an amazing person did this for me, and want to send all my SurePredict Pregnancy tests, Wondfo Ovulation strips, and other small batches of random pregnancy tests to the first 1 to 2 responses. USA only please. I may also still have a box of Preseed if either responder is interested in that!",t2_jtob5,False,,0,False,Giveaway to just you folks,[],r/ttcafterloss,False,0,support,0,,,False,t3_3hv3s6,False,dark,0.93,,public,12,0,{},,,False,[],,False,False,,{},Support,False,12,,False,self,False,,[],{},,True,,1440202362.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Paying it forward because months back an amazing person did this for me, and want to send all my SurePredict Pregnancy tests, Wondfo Ovulation strips, and other small batches of random pregnancy tests to the first 1 to 2 responses. USA only please. I may also still have a box of Preseed if either responder is interested in that!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False, 1 CP,[],False,,,,t5_34scd,,,,3hv3s6,True,,jwad1246,,13,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hv3s6/giveaway_to_just_you_folks/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hv3s6/giveaway_to_just_you_folks/,10027,1440173562.0,0,,False,False,{},,,
+73,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 21, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3htk6z,False,dark,0.86,,public,5,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,5,,True,self,False,,[],{},,True,,1440169244.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3htk6z,True,,AutoModerator,,158,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3htk6z/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3htk6z/ttcafterloss_alumni_daily_discussion_thread/,10027,1440140444.0,0,,False,False,{},,,
+74,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 21, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3htk6w,False,dark,0.9,,public,7,0,{},,,False,[],,False,False,,{},TTC Thread,False,7,,True,self,False,,[],{},,True,,1440169244.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3htk6w,True,,AutoModerator,,95,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3htk6w/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3htk6w/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440140444.0,0,,False,False,{},,,
+75,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"I became pregnant when I was 29 and lost the baby after turning 30. Before the miscarriage, my husband and I were planning on having 2 children and probably spacing them out 4 years apart and then maybe have a 3rd.
+
+After the miscarriage, we decided to never go back to birth control unless medically necessary and reevaluate only when we have more kids than we feel like we can handle (perhaps more than 5 is more than what we can afford).
+
+We are too afraid that this may take years and don't want to waste my fertility years.
+
+Have any of you become this way? Perhaps now the trauma caused you to want less kids than you initially envisioned?",t2_paamo,False,,0,False,How has this changed your reproductive plans?,[],r/ttcafterloss,False,0,question,0,,,False,t3_3hqxg0,False,dark,1.0,,public,9,0,{},,,False,[],,False,False,,{},Question,False,9,,False,self,False,,[],{},,True,,1440123090.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>I became pregnant when I was 29 and lost the baby after turning 30. Before the miscarriage, my husband and I were planning on having 2 children and probably spacing them out 4 years apart and then maybe have a 3rd.</p>
+
+<p>After the miscarriage, we decided to never go back to birth control unless medically necessary and reevaluate only when we have more kids than we feel like we can handle (perhaps more than 5 is more than what we can afford).</p>
+
+<p>We are too afraid that this may take years and don&#39;t want to waste my fertility years.</p>
+
+<p>Have any of you become this way? Perhaps now the trauma caused you to want less kids than you initially envisioned?</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3hqxg0,True,,notamyrtle,,33,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3hqxg0/how_has_this_changed_your_reproductive_plans/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hqxg0/how_has_this_changed_your_reproductive_plans/,10027,1440094290.0,0,,False,False,{},,,
+76,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 20, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3hoveq,False,dark,1.0,,public,11,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,11,,True,self,False,,[],{},,True,,1440082869.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hoveq,True,,AutoModerator,,191,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hoveq/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hoveq/ttcafterloss_alumni_daily_discussion_thread/,10027,1440054069.0,0,,False,False,{},,,
+77,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 20, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3hoveo,False,dark,1.0,,public,11,0,{},,,False,[],,False,False,,{},TTC Thread,False,11,,True,self,False,,[],{},,True,,1440082868.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hoveo,True,,AutoModerator,,126,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hoveo/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hoveo/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1440054068.0,0,,False,False,{},,,
+78,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Lately I've been thinking about how scary it is to consider being pregnant again.  What if I lose another baby?  I can't picture myself trying again after a third loss.  That, alone, would be devastating.  And another lost child?  It scares me.
+
+But it's one of those fears I don't want to mention to my darling husband.  I don't want him to worry even more.  But perhaps more than that, I am afraid he will say, ""We should just not try again.""  That's not what I want him to say.  I want him to tell me, ""It will all be okay.""  Or, ""We would get through it together.""
+
+It's dark out there tonight.
+
+Anyone else have any fears you don't want to share with your partner, or have similar fears?",t2_6eq7e,False,,0,False,Fears you don't want to mention to your partner.,[],r/ttcafterloss,False,0,discussion,0,,,False,t3_3hnzih,False,dark,1.0,,public,15,0,{},,,False,[],,False,False,,{},Discussion,False,15,,False,self,False,,[],{},,True,,1440064913.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Lately I&#39;ve been thinking about how scary it is to consider being pregnant again.  What if I lose another baby?  I can&#39;t picture myself trying again after a third loss.  That, alone, would be devastating.  And another lost child?  It scares me.</p>
+
+<p>But it&#39;s one of those fears I don&#39;t want to mention to my darling husband.  I don&#39;t want him to worry even more.  But perhaps more than that, I am afraid he will say, &quot;We should just not try again.&quot;  That&#39;s not what I want him to say.  I want him to tell me, &quot;It will all be okay.&quot;  Or, &quot;We would get through it together.&quot;</p>
+
+<p>It&#39;s dark out there tonight.</p>
+
+<p>Anyone else have any fears you don&#39;t want to share with your partner, or have similar fears?</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"33, mmc 12/26/14, mc of a twin 4/2012, 1 LC",[],False,,,,t5_34scd,,,,3hnzih,True,,nekomancer_lolz,,28,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hnzih/fears_you_dont_want_to_mention_to_your_partner/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hnzih/fears_you_dont_want_to_mention_to_your_partner/,10027,1440036113.0,0,,False,False,{},,,
+79,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"Hello all,
+
+I have been lurking for about a week and this sub has really helped me get through my day so I thought I'd introduce myself.
+
+I had a missed miscarriage at 16 weeks that was detected at my 20 week scan last week.
+
+A day after my 16 week appointment I woke up with the worst back pain I had in my life. I couldn't breath and had to remove my clothes just to get some relief. This lasted for about 10 minutes and after that I was still feeling very weak. I called the nurse line at my obgyn and they said to go to the emergency room. At the hospital they suspected that I had a pulmonary embolism and did a bunch of tests that all came out negative. They looked at the fetus and saw he was still there but didn't check that he had a heartbeat.
+
+After that day I stopped feeling him kick and my stomach started to shrink (I was able to fit into my regular clothes again) but I still had other pregnancy symptoms.
+
+I had a d&c last Friday and went back to work yesterday but I can't seem to stop thinking about what happened and had a very hard time focusing.
+
+The thing is, I felt a little ambivalent about having a baby because I have a health condition that may prevent me from having kids in the future so my husband and I started ttcing very early into the marriage and I felt guilty about this since he is younger than me and I was concerned that maybe we should enjoy being alone for another year or so.
+
+Now, after I lost my baby, I obviously don't feel this way. I feel very guilty that I felt abmivalent about my poor former stomach dweller. 
+
+My husband and I had almost every test possible. We had genetic testing prior to conceiving for me as well as fertility testing and we had the panorama test for the baby and he had zero abnormalities. The pregnancy was progressing really well until 16 weeks and I was taking medication to reduce the chance of miscarriage (for my thyroid) as well as taking prenatal vitamins. I was walking twice a day and eating healthy and just generally taking care of myself as much as I can.
+
+I'm just at such a loss as to what went wrong since having a miscarriage at such a late stage is so rare with absolutely zero indication of any warning signs. I do have a uterine fibroid but the ultrasound tech has been monitoring it throughout the pregnancy and said it was small enough to not be a problem. Maybe in hindsight she was wrong. I am very afraid of this being the start of a long journey with multiple miscarriages. I don't know if I can handle it.
+
+I asked that the fetus be tested to see if there was something wrong with him. The doctor was supposed to give me an amnio while I was under general anesthesia but since he had been dead for such a long time, there was no fluid left. They were able to take a tissue sample from the fetus and hopefully that will have some live cells in it that they can test.
+
+I was wondering if any of you had any experience with testing after a late miscarriage. My obgyn wants me to just try again and not pursue any testing. She says it may have been a cord accident but I really want some peace of mind so this won't happen again.
+
+Should I insist on a recurring miscarriage blood test? Are you aware of any other tests besides this one? ",t2_paamo,False,,0,False,Introduction and question about testing (possible trigger - late miscarriage),[],r/ttcafterloss,False,0,trigger,0,,,False,t3_3hm8xt,False,dark,1.0,,public,13,0,{},,,False,[],,False,False,,{},Trigger,False,13,,False,self,False,,[],{},,True,,1440038642.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>Hello all,</p>
+
+<p>I have been lurking for about a week and this sub has really helped me get through my day so I thought I&#39;d introduce myself.</p>
+
+<p>I had a missed miscarriage at 16 weeks that was detected at my 20 week scan last week.</p>
+
+<p>A day after my 16 week appointment I woke up with the worst back pain I had in my life. I couldn&#39;t breath and had to remove my clothes just to get some relief. This lasted for about 10 minutes and after that I was still feeling very weak. I called the nurse line at my obgyn and they said to go to the emergency room. At the hospital they suspected that I had a pulmonary embolism and did a bunch of tests that all came out negative. They looked at the fetus and saw he was still there but didn&#39;t check that he had a heartbeat.</p>
+
+<p>After that day I stopped feeling him kick and my stomach started to shrink (I was able to fit into my regular clothes again) but I still had other pregnancy symptoms.</p>
+
+<p>I had a d&amp;c last Friday and went back to work yesterday but I can&#39;t seem to stop thinking about what happened and had a very hard time focusing.</p>
+
+<p>The thing is, I felt a little ambivalent about having a baby because I have a health condition that may prevent me from having kids in the future so my husband and I started ttcing very early into the marriage and I felt guilty about this since he is younger than me and I was concerned that maybe we should enjoy being alone for another year or so.</p>
+
+<p>Now, after I lost my baby, I obviously don&#39;t feel this way. I feel very guilty that I felt abmivalent about my poor former stomach dweller. </p>
+
+<p>My husband and I had almost every test possible. We had genetic testing prior to conceiving for me as well as fertility testing and we had the panorama test for the baby and he had zero abnormalities. The pregnancy was progressing really well until 16 weeks and I was taking medication to reduce the chance of miscarriage (for my thyroid) as well as taking prenatal vitamins. I was walking twice a day and eating healthy and just generally taking care of myself as much as I can.</p>
+
+<p>I&#39;m just at such a loss as to what went wrong since having a miscarriage at such a late stage is so rare with absolutely zero indication of any warning signs. I do have a uterine fibroid but the ultrasound tech has been monitoring it throughout the pregnancy and said it was small enough to not be a problem. Maybe in hindsight she was wrong. I am very afraid of this being the start of a long journey with multiple miscarriages. I don&#39;t know if I can handle it.</p>
+
+<p>I asked that the fetus be tested to see if there was something wrong with him. The doctor was supposed to give me an amnio while I was under general anesthesia but since he had been dead for such a long time, there was no fluid left. They were able to take a tissue sample from the fetus and hopefully that will have some live cells in it that they can test.</p>
+
+<p>I was wondering if any of you had any experience with testing after a late miscarriage. My obgyn wants me to just try again and not pursue any testing. She says it may have been a cord accident but I really want some peace of mind so this won&#39;t happen again.</p>
+
+<p>Should I insist on a recurring miscarriage blood test? Are you aware of any other tests besides this one? </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3hm8xt,True,,notamyrtle,,14,True,no_ads,False,[],False,,/r/ttcafterloss/comments/3hm8xt/introduction_and_question_about_testing_possible/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hm8xt/introduction_and_question_about_testing_possible/,10027,1440009842.0,0,,False,False,{},,,
+80,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,[deleted],,False,,0,False,Don't want to do this anymore,[],r/ttcafterloss,False,0,vent,0,,,False,t3_3hlrmd,False,dark,1.0,,public,20,0,{},,,False,[],,False,False,,{},Vent,False,20,,,default,1440018868.0,,,{},,True,,1440031948.0,text,0,,,,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>[deleted]</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,,t5_34scd,,,,3hlrmd,False,,,,8,True,no_ads,False,[],,dark,/r/ttcafterloss/comments/3hlrmd/dont_want_to_do_this_anymore/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hlrmd/dont_want_to_do_this_anymore/,10027,1440003148.0,0,,False,False,{},,,
+81,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 19, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3hjzj4,False,dark,0.85,,public,8,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,8,,True,self,False,,[],{},,True,,1439996550.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hjzj4,True,,AutoModerator,,172,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hjzj4/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hjzj4/ttcafterloss_alumni_daily_discussion_thread/,10027,1439967750.0,0,,False,False,{},,,
+82,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 19, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3hjziz,False,dark,1.0,,public,15,0,{},,,False,[],,False,False,,{},TTC Thread,False,15,,True,self,False,,[],{},,True,,1439996550.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hjziz,True,,AutoModerator,,168,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hjziz/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hjziz/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1439967750.0,0,,False,False,{},,,
+83,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,And were they as you had imagined them to be?,t2_ik1mm,False,,0,False,Get-To-Know-You Thread: What famous person have you met?,[],r/ttcafterloss,False,0,offtopic,0,,,False,t3_3hjibc,False,dark,1.0,,public,9,0,{},,8b677c92-711f-11e4-b63c-12313b0b807d,False,[],,False,False,,{},Off Topic,False,9,,False,self,False,,[],{},,True,,1439986237.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>And were they as you had imagined them to be?</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,"3CPs, IUI Baby #1, MMC (12 weeks), TTC #2",[],False,,,,t5_34scd,,,,3hjibc,True,,mrswaka,,59,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hjibc/gettoknowyou_thread_what_famous_person_have_you/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hjibc/gettoknowyou_thread_what_famous_person_have_you/,10027,1439957437.0,0,,False,False,{},,,
+84,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"After a year and a half, we're finally getting set up with an RE! My GP clinic sent us the names of the two fertility clinics they normally work with so we can do some research. They said that they would refer us to either of these clinics, or another if we found someone else we liked. 
+
+Now what should I be looking for? Any advice on how to know if they would be a good match or help with figuring our insurance coverage (if any!) would be very helpful. 
+
+Thanks, everybody! ",t2_ja06e,False,,0,False,How to choose an RE,[],r/ttcafterloss,False,0,question,0,,,False,t3_3hi776,False,dark,1.0,,public,8,0,{},,,False,[],,False,False,,{},Question,False,8,,False,self,False,,[],{},,True,,1439965074.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p>After a year and a half, we&#39;re finally getting set up with an RE! My GP clinic sent us the names of the two fertility clinics they normally work with so we can do some research. They said that they would refer us to either of these clinics, or another if we found someone else we liked. </p>
+
+<p>Now what should I be looking for? Any advice on how to know if they would be a good match or help with figuring our insurance coverage (if any!) would be very helpful. </p>
+
+<p>Thanks, everybody! </p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,Miscarriage 4/15; Chemical Pregnancy 3/16,[],False,,,,t5_34scd,,,,3hi776,True,,GaveTheMouseACookie,,4,True,no_ads,False,[],False,dark,/r/ttcafterloss/comments/3hi776/how_to_choose_an_re/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hi776/how_to_choose_an_re/,10027,1439936274.0,0,,False,False,{},,,
+85,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are currently pregnant. How are you doing today?**
+
+
+**[Due Date List](http://www.reddit.com/r/ttcafterloss/wiki/duedatelist)**
+
+**[TTCALBabies](http://www.reddit.com/r/ttcalbabies)**: private sub for members who have already had their babies (message /u/sansascully to join)
+",t2_6l4z3,False,,0,False,"/ttcafterloss Alumni Daily Discussion Thread - August 18, 2015",[],r/ttcafterloss,False,0,pregnancy,0,,,False,t3_3hf1x3,False,dark,1.0,,public,12,0,{},,,False,[],,False,False,,{},Pregnancy Thread,False,12,,True,self,False,,[],{},,True,,1439910157.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are currently pregnant. How are you doing today?</strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcafterloss/wiki/duedatelist"">Due Date List</a></strong></p>
+
+<p><strong><a href=""http://www.reddit.com/r/ttcalbabies"">TTCALBabies</a></strong>: private sub for members who have already had their babies (message <a href=""/u/sansascully"">/u/sansascully</a> to join)</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hf1x3,True,,AutoModerator,,133,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hf1x3/ttcafterloss_alumni_daily_discussion_thread/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hf1x3/ttcafterloss_alumni_daily_discussion_thread/,10027,1439881357.0,0,,False,False,{},,,
+86,2048,confidence,<praw.reddit.Reddit object at 0x7f12a630cd90>,,ttcafterloss,"**This thread is for members who are TTC or waiting to try. How are you doing today?**
+
+Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily ""Alumni"" thread. Thank you!
+",t2_6l4z3,False,,0,False,"/ttcafterloss TTC Daily Discussion Thread - August 18, 2015",[],r/ttcafterloss,False,0,ttc,0,,,False,t3_3hf1x1,False,dark,1.0,,public,10,0,{},,,False,[],,False,False,,{},TTC Thread,False,10,,True,self,False,,[],{},,True,,1439910157.0,text,0,,,text,self.ttcafterloss,False,"<!-- SC_OFF --><div class=""md""><p><strong>This thread is for members who are TTC or waiting to try. How are you doing today?</strong></p>
+
+<p>Note: Please refrain from discussing positive tests (and beyond) in this thread - those topics are better suited for the daily &quot;Alumni&quot; thread. Thank you!</p>
+</div><!-- SC_ON -->",,new,,,True,False,False,False,False,[],[],False,False,False,False,,[],False,,,moderator,t5_34scd,,,,3hf1x1,True,,AutoModerator,,108,False,no_ads,False,[],False,,/r/ttcafterloss/comments/3hf1x1/ttcafterloss_ttc_daily_discussion_thread_august/,no_ads,False,https://www.reddit.com/r/ttcafterloss/comments/3hf1x1/ttcafterloss_ttc_daily_discussion_thread_august/,10027,1439881357.0,0,,False,False,{},,,
